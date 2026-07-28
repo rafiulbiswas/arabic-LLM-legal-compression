@@ -1,0 +1,8 @@
+{
+  "mcq_train": 8451,
+  "mcq_eval": 2113,
+  "qa_train": 1102,
+  "qa_eval": 276,
+  "eval_ratio": 0.2,
+  "seed": 42
+}

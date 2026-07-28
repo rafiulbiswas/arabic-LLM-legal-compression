@@ -1,0 +1,23 @@
+{
+  "model_name": "BNB_INT4",
+  "with_context": {
+    "accuracy": 99.0,
+    "correct": 495,
+    "total": 500,
+    "time_seconds": 10835.873293876648
+  },
+  "without_context": {
+    "accuracy": 78.8,
+    "correct": 394,
+    "total": 500,
+    "time_seconds": 7748.795466899872
+  },
+  "reading_skill": 20.200000000000003,
+  "size_info": {
+    "total_params": 4622073344,
+    "total_params_billions": 4.622073344,
+    "memory_mb": 4846.906251907349,
+    "memory_gb": 4.73330688662827
+  },
+  "compression_ratio": 0.2893000700272841
+}

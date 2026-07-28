@@ -1,0 +1,23 @@
+{
+  "model_name": "INT4_FP4",
+  "with_context": {
+    "accuracy": 98.2,
+    "correct": 491,
+    "total": 500,
+    "time_seconds": 277.03150510787964
+  },
+  "without_context": {
+    "accuracy": 79.2,
+    "correct": 396,
+    "total": 500,
+    "time_seconds": 246.9461944103241
+  },
+  "reading_skill": 19.0,
+  "size_info": {
+    "total_params": 4622073344,
+    "total_params_billions": 4.622073344,
+    "memory_mb": 4846.90576171875,
+    "memory_gb": 4.733306407928467
+  },
+  "compression_ratio": 0.2893000492335058
+}

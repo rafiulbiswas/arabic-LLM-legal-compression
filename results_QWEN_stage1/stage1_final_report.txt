@@ -1,0 +1,35 @@
+
+======================================================================
+STAGE 1 FINAL REPORT - ArabLegalEval Benchmark
+======================================================================
+
+Date: 2026-06-29 17:00:05
+Model: Qwen/Qwen2.5-7B-Instruct
+Dataset: ArabLegalEval (THIQAH + KAUST)
+Citation: Hijazi et al., 2024 (arXiv:2408.07983)
+
+DATASET SPLITS:
+  MCQ Train: 8451 | Eval: 2113
+  QA Train:  1800 | Eval: 200
+
+RESULTS:
+----------------------------------------------------------------------
+Experiment                MCQ Acc    ROUGE-L      QA EM
+----------------------------------------------------------------------
+Exp A (Base)               97.30%     0.0095      0.00%
+Exp B (CPT)                97.59%     0.1532      0.00%
+Exp C (SFT)                98.58%     0.3170      0.00%
+Exp D (CPT→SFT)            98.63%     0.2750      0.00%
+
+----------------------------------------------------------------------
+
+🏆 BEST MODEL: Exp D (CPT→SFT)
+
+📁 SAVED FILES:
+  Models: ./models_QWENlegal_stage1/
+  Results: ./results_QWEN_stage1/
+
+🎯 NEXT STEPS:
+  Use Exp D (CPT→SFT) as TEACHER for Stage 2 (Compression)
+
+======================================================================

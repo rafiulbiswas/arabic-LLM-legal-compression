@@ -1,0 +1,20 @@
+{
+  "evaluation_date": "2026-05-06 13:56:45.574529",
+  "sample_size": 500,
+  "with_context": {
+    "overall_accuracy": 99.0,
+    "leaked_questions": {
+      "count": 270,
+      "accuracy": 99.25925925925925
+    },
+    "not_leaked_questions": {
+      "count": 230,
+      "accuracy": 98.69565217391305
+    }
+  },
+  "without_context": {
+    "accuracy": 70.19999999999999
+  },
+  "reading_comprehension_skill": 28.80000000000001,
+  "context_leakage_rate": 54.0
+}

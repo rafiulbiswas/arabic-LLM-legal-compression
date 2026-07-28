@@ -1,0 +1,20 @@
+{
+  "experiment_name": "ExpB_CPT_ArabLegal",
+  "timestamp": "2026-06-14T06:07:07.672164",
+  "mcq": {
+    "accuracy": 0.9356365357311879,
+    "correct": 1977,
+    "total": 2113,
+    "invalid": 1,
+    "by_task": {
+      "saudi_legal_mcq": 0.9356365357311879
+    }
+  },
+  "qa": {
+    "rouge1": 0.02491699092088197,
+    "rouge2": 0.0,
+    "rougeL": 0.02491699092088197,
+    "exact_match": 0.0,
+    "total": 200
+  }
+}

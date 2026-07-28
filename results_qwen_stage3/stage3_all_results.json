@@ -1,0 +1,345 @@
+{
+  "date": "2026-07-06T09:50:20.701970",
+  "teacher": "./models_QWENlegal_stage1/exp_c_sft",
+  "pareto_frontier": [
+    {
+      "Model": "QWEN-7B (Teacher)",
+      "Size": "9B",
+      "Source": "Stage 1",
+      "Method": "Original",
+      "Precision": "BF16",
+      "Memory_GB": 16.36,
+      "WithContext": 99.0,
+      "WithoutContext": 79.2,
+      "CompressionRatio": 1.0,
+      "AccuracyRetention": 100.0,
+      "ParamsB": 9.0
+    },
+    {
+      "Model": "QWEN-7B INT8",
+      "Size": "9B",
+      "Source": "Stage 2",
+      "Method": "Quantization",
+      "Precision": "INT8",
+      "Memory_GB": 8.61,
+      "WithContext": 99.0,
+      "WithoutContext": 79.4,
+      "CompressionRatio": 1.9001161440185832,
+      "AccuracyRetention": 100.25252525252526,
+      "ParamsB": 9.0
+    },
+    {
+      "Model": "Distilled-7B",
+      "Size": "7B",
+      "Source": "Stage 3",
+      "Method": "Distillation",
+      "Precision": "BF16",
+      "Memory_GB": 5.07,
+      "WithContext": 97.8,
+      "WithoutContext": 72.6,
+      "CompressionRatio": 3.226824457593688,
+      "AccuracyRetention": 91.66666666666666,
+      "ParamsB": 7.0
+    },
+    {
+      "Model": "Distilled-7B-INT4",
+      "Size": "7B",
+      "Source": "Stage 3",
+      "Method": "Distill+Quantize",
+      "Precision": "INT4_NF4",
+      "Memory_GB": 5.07,
+      "WithContext": 98.2,
+      "WithoutContext": 72.4,
+      "CompressionRatio": 3.226824457593688,
+      "AccuracyRetention": 91.41414141414141,
+      "ParamsB": 7.0
+    },
+    {
+      "Model": "QWEN-7B INT4",
+      "Size": "9B",
+      "Source": "Stage 2",
+      "Method": "Quantization",
+      "Precision": "INT4_NF4",
+      "Memory_GB": 4.73,
+      "WithContext": 99.0,
+      "WithoutContext": 79.4,
+      "CompressionRatio": 3.4587737843551793,
+      "AccuracyRetention": 100.25252525252526,
+      "ParamsB": 9.0
+    },
+    {
+      "Model": "Distilled-3B-INT4",
+      "Size": "3B",
+      "Source": "Stage 3",
+      "Method": "Distill+Quantize",
+      "Precision": "INT4_NF4",
+      "Memory_GB": 1.87,
+      "WithContext": 87.8,
+      "WithoutContext": 59.4,
+      "CompressionRatio": 8.748663101604278,
+      "AccuracyRetention": 75.0,
+      "ParamsB": 3.0
+    },
+    {
+      "Model": "Distilled-3B",
+      "Size": "3B",
+      "Source": "Stage 3",
+      "Method": "Distillation",
+      "Precision": "BF16",
+      "Memory_GB": 1.87,
+      "WithContext": 85.4,
+      "WithoutContext": 51.2,
+      "CompressionRatio": 8.748663101604278,
+      "AccuracyRetention": 64.64646464646465,
+      "ParamsB": 3.0
+    },
+    {
+      "Model": "Distilled-1.5B-INT4",
+      "Size": "1.5B",
+      "Source": "Stage 3",
+      "Method": "Distill+Quantize",
+      "Precision": "INT4_NF4",
+      "Memory_GB": 1.05,
+      "WithContext": 86.6,
+      "WithoutContext": 49.8,
+      "CompressionRatio": 15.580952380952379,
+      "AccuracyRetention": 62.878787878787875,
+      "ParamsB": 1.5
+    },
+    {
+      "Model": "Distilled-1.5B",
+      "Size": "1.5B",
+      "Source": "Stage 3",
+      "Method": "Distillation",
+      "Precision": "BF16",
+      "Memory_GB": 1.05,
+      "WithContext": 81.0,
+      "WithoutContext": 48.0,
+      "CompressionRatio": 15.580952380952379,
+      "AccuracyRetention": 60.60606060606061,
+      "ParamsB": 1.5
+    },
+    {
+      "Model": "Distilled-500M",
+      "Size": "500M",
+      "Source": "Stage 3",
+      "Method": "Distillation",
+      "Precision": "BF16",
+      "Memory_GB": 0.42,
+      "WithContext": 45.0,
+      "WithoutContext": 38.4,
+      "CompressionRatio": 38.95238095238095,
+      "AccuracyRetention": 48.48484848484848,
+      "ParamsB": 0.5
+    },
+    {
+      "Model": "Distilled-500M-INT4",
+      "Size": "500M",
+      "Source": "Stage 3",
+      "Method": "Distill+Quantize",
+      "Precision": "INT4_NF4",
+      "Memory_GB": 0.42,
+      "WithContext": 32.0,
+      "WithoutContext": 32.2,
+      "CompressionRatio": 38.95238095238095,
+      "AccuracyRetention": 40.65656565656566,
+      "ParamsB": 0.5
+    }
+  ],
+  "distilled_models": {
+    "500M": {
+      "model_name": "Distilled_500M",
+      "with_context": {
+        "accuracy": 45.0,
+        "correct": 225,
+        "total": 500,
+        "time_seconds": 218.57669925689697
+      },
+      "without_context": {
+        "accuracy": 38.4,
+        "correct": 192,
+        "total": 500,
+        "time_seconds": 217.9843270778656
+      },
+      "reading_skill": 6.600000000000001,
+      "size_info": {
+        "total_params": 315119488,
+        "total_params_billions": 0.315119488,
+        "memory_mb": 430.41796875,
+        "memory_gb": 0.4203300476074219
+      },
+      "student_size": "500M",
+      "base_model": "Qwen/Qwen2.5-0.5B-Instruct"
+    },
+    "1.5B": {
+      "model_name": "Distilled_1.5B",
+      "with_context": {
+        "accuracy": 81.0,
+        "correct": 405,
+        "total": 500,
+        "time_seconds": 251.87478303909302
+      },
+      "without_context": {
+        "accuracy": 48.0,
+        "correct": 240,
+        "total": 500,
+        "time_seconds": 251.44030714035034
+      },
+      "reading_skill": 33.0,
+      "size_info": {
+        "total_params": 888616448,
+        "total_params_billions": 0.888616448,
+        "memory_mb": 1070.15185546875,
+        "memory_gb": 1.0450701713562012
+      },
+      "student_size": "1.5B",
+      "base_model": "Qwen/Qwen2.5-1.5B-Instruct"
+    },
+    "3B": {
+      "model_name": "Distilled_3B",
+      "with_context": {
+        "accuracy": 85.39999999999999,
+        "correct": 427,
+        "total": 500,
+        "time_seconds": 323.9863450527191
+      },
+      "without_context": {
+        "accuracy": 51.2,
+        "correct": 256,
+        "total": 500,
+        "time_seconds": 323.27789092063904
+      },
+      "reading_skill": 34.19999999999999,
+      "size_info": {
+        "total_params": 1698672640,
+        "total_params_billions": 1.69867264,
+        "memory_mb": 1916.96142578125,
+        "memory_gb": 1.872032642364502
+      },
+      "student_size": "3B",
+      "base_model": "Qwen/Qwen2.5-3B-Instruct"
+    },
+    "7B": {
+      "model_name": "Distilled_7B",
+      "with_context": {
+        "accuracy": 97.8,
+        "correct": 489,
+        "total": 500,
+        "time_seconds": 256.8379776477814
+      },
+      "without_context": {
+        "accuracy": 72.6,
+        "correct": 363,
+        "total": 500,
+        "time_seconds": 255.22720432281494
+      },
+      "reading_skill": 25.200000000000003,
+      "size_info": {
+        "total_params": 4352972288,
+        "total_params_billions": 4.352972288,
+        "memory_mb": 5191.13623046875,
+        "memory_gb": 5.069468975067139
+      },
+      "student_size": "7B",
+      "base_model": "Qwen/Qwen2.5-7B-Instruct"
+    }
+  },
+  "distilled_quantized": {
+    "500M": {
+      "model_name": "Distilled_500M_INT4",
+      "with_context": {
+        "accuracy": 32.0,
+        "correct": 160,
+        "total": 500,
+        "time_seconds": 127.13398146629333
+      },
+      "without_context": {
+        "accuracy": 32.2,
+        "correct": 161,
+        "total": 500,
+        "time_seconds": 104.71838307380676
+      },
+      "reading_skill": -0.20000000000000284,
+      "size_info": {
+        "total_params": 315119488,
+        "total_params_billions": 0.315119488,
+        "memory_mb": 430.41796875,
+        "memory_gb": 0.4203300476074219
+      },
+      "student_size": "500M",
+      "quantization": "INT4_NF4"
+    },
+    "1.5B": {
+      "model_name": "Distilled_1.5B_INT4",
+      "with_context": {
+        "accuracy": 86.6,
+        "correct": 433,
+        "total": 500,
+        "time_seconds": 143.83386516571045
+      },
+      "without_context": {
+        "accuracy": 49.8,
+        "correct": 249,
+        "total": 500,
+        "time_seconds": 120.9620349407196
+      },
+      "reading_skill": 36.8,
+      "size_info": {
+        "total_params": 888616448,
+        "total_params_billions": 0.888616448,
+        "memory_mb": 1070.15185546875,
+        "memory_gb": 1.0450701713562012
+      },
+      "student_size": "1.5B",
+      "quantization": "INT4_NF4"
+    },
+    "3B": {
+      "model_name": "Distilled_3B_INT4",
+      "with_context": {
+        "accuracy": 87.8,
+        "correct": 439,
+        "total": 500,
+        "time_seconds": 172.24881315231323
+      },
+      "without_context": {
+        "accuracy": 59.4,
+        "correct": 297,
+        "total": 500,
+        "time_seconds": 153.9264166355133
+      },
+      "reading_skill": 28.4,
+      "size_info": {
+        "total_params": 1698672640,
+        "total_params_billions": 1.69867264,
+        "memory_mb": 1916.96142578125,
+        "memory_gb": 1.872032642364502
+      },
+      "student_size": "3B",
+      "quantization": "INT4_NF4"
+    },
+    "7B": {
+      "model_name": "Distilled_7B_INT4",
+      "with_context": {
+        "accuracy": 98.2,
+        "correct": 491,
+        "total": 500,
+        "time_seconds": 142.23230528831482
+      },
+      "without_context": {
+        "accuracy": 72.39999999999999,
+        "correct": 362,
+        "total": 500,
+        "time_seconds": 121.50034737586975
+      },
+      "reading_skill": 25.80000000000001,
+      "size_info": {
+        "total_params": 4352972288,
+        "total_params_billions": 4.352972288,
+        "memory_mb": 5191.13623046875,
+        "memory_gb": 5.069468975067139
+      },
+      "student_size": "7B",
+      "quantization": "INT4_NF4"
+    }
+  }
+}

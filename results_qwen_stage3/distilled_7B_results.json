@@ -1,0 +1,24 @@
+{
+  "model_name": "Distilled_7B",
+  "with_context": {
+    "accuracy": 97.8,
+    "correct": 489,
+    "total": 500,
+    "time_seconds": 256.8379776477814
+  },
+  "without_context": {
+    "accuracy": 72.6,
+    "correct": 363,
+    "total": 500,
+    "time_seconds": 255.22720432281494
+  },
+  "reading_skill": 25.200000000000003,
+  "size_info": {
+    "total_params": 4352972288,
+    "total_params_billions": 4.352972288,
+    "memory_mb": 5191.13623046875,
+    "memory_gb": 5.069468975067139
+  },
+  "student_size": "7B",
+  "base_model": "Qwen/Qwen2.5-7B-Instruct"
+}

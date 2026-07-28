@@ -1,0 +1,12 @@
+Model,Size,Source,Method,Precision,Memory_GB,WithContext,WithoutContext
+QWEN-7B (Teacher),9B,Stage 1,Original,BF16,16.36,99.0,79.2
+QWEN-7B INT8,9B,Stage 2,Quantization,INT8,8.61,99.0,79.4
+Distilled-7B,7B,Stage 3,Distillation,BF16,5.07,97.8,72.6
+Distilled-7B-INT4,7B,Stage 3,Distill+Quantize,INT4_NF4,5.07,98.2,72.4
+QWEN-7B INT4,9B,Stage 2,Quantization,INT4_NF4,4.73,99.0,79.4
+Distilled-3B-INT4,3B,Stage 3,Distill+Quantize,INT4_NF4,1.87,87.8,59.4
+Distilled-3B,3B,Stage 3,Distillation,BF16,1.87,85.4,51.2
+Distilled-1.5B-INT4,1.5B,Stage 3,Distill+Quantize,INT4_NF4,1.05,86.6,49.8
+Distilled-1.5B,1.5B,Stage 3,Distillation,BF16,1.05,81.0,48.0
+Distilled-500M,500M,Stage 3,Distillation,BF16,0.42,45.0,38.4
+Distilled-500M-INT4,500M,Stage 3,Distill+Quantize,INT4_NF4,0.42,32.0,32.2

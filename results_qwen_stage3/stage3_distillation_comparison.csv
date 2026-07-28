@@ -1,0 +1,6 @@
+Student Size,Base Model,Parameters (B),Memory (GB),With Context (%),Without Context (%),Reading Skill
+9B (Teacher),FANAR-9B-SFT,9.0,16.36,99.0,79.2,19.8
+500M,Qwen2.5-0.5B-Instruct,0.32,0.42,45.0,38.4,6.6
+1.5B,Qwen2.5-1.5B-Instruct,0.89,1.05,81.0,48.0,33.0
+3B,Qwen2.5-3B-Instruct,1.7,1.87,85.4,51.2,34.2
+7B,Qwen2.5-7B-Instruct,4.35,5.07,97.8,72.6,25.2

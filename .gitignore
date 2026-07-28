@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Authentication and secrets
+*.pem
+*.key
+credentials.json
+token.json
+wandb_api_key*
+huggingface_token*
+openai_api_key*
+
+# Experiment tracking
+wandb/
+mlruns/
+lightning_logs/
+runs/
+logs/
+
+# Temporary files
+tmp/
+temp/
+cache/
+*.tmp
+*.log
+
+# Local datasets that cannot be redistributed
+data/private/
+data/raw/
+
+# LaTeX temporary files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# Secrets
+.env
+.env.*
+*.env
+credentials.json
+secrets.json
+token.json

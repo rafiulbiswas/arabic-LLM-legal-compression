@@ -1,0 +1,24 @@
+{
+  "model_name": "Distilled_500M",
+  "with_context": {
+    "accuracy": 75.8,
+    "correct": 379,
+    "total": 500,
+    "time_seconds": 669.3130307197571
+  },
+  "without_context": {
+    "accuracy": 69.8,
+    "correct": 349,
+    "total": 500,
+    "time_seconds": 621.2648465633392
+  },
+  "reading_skill": 6.0,
+  "size_info": {
+    "total_params": 315119488,
+    "total_params_billions": 0.315119488,
+    "memory_mb": 430.41796875,
+    "memory_gb": 0.4203300476074219
+  },
+  "student_size": "500M",
+  "base_model": "Qwen/Qwen2.5-0.5B-Instruct"
+}

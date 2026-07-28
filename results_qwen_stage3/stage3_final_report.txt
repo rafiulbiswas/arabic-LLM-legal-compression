@@ -1,0 +1,83 @@
+
+======================================================================
+STAGE 3 FINAL REPORT - DISTILLATION + COMPLETE PARETO FRONTIER
+======================================================================
+
+Date: 2026-07-06 09:50:20
+Teacher: FANAR-9B-SFT (Stage 1)
+Students: Qwen2.5 family (7B, 3B, 1.5B, 0.5B)
+Dataset: ArabLegalEval (500 eval samples)
+
+======================================================================
+DISTILLATION RESULTS (BF16)
+======================================================================
+
+Size           Params     Memory   With Ctx     No Ctx
+-------------------------------------------------------
+9B (T)          9.00B   16.36 GB     99.00%     79.20%
+7B              4.35B      5.07 GB     97.80%     72.60%
+3B              1.70B      1.87 GB     85.40%     51.20%
+1.5B            0.89B      1.05 GB     81.00%     48.00%
+500M            0.32B      0.42 GB     45.00%     38.40%
+
+======================================================================
+DISTILLATION + INT4 QUANTIZATION
+======================================================================
+
+Size           Memory   With Ctx     No Ctx
+---------------------------------------------
+7B              5.07 GB     98.20%     72.40%
+3B              1.87 GB     87.80%     59.40%
+1.5B            1.05 GB     86.60%     49.80%
+500M            0.42 GB     32.00%     32.20%
+
+======================================================================
+KEY FINDINGS
+======================================================================
+
+🏆 BEST MODELS BY DEPLOYMENT CONSTRAINT:
+
+   Under 5GB (Laptop):     QWEN-7B INT4
+                          Memory: 4.73 GB
+                          Accuracy: 79.40%
+
+   Under 2GB (Mobile):     Distilled-3B-INT4
+                          Memory: 1.87 GB
+                          Accuracy: 59.40%
+
+   Under 1GB (Edge):       Distilled-500M
+                          Memory: 0.42 GB
+                          Accuracy: 38.40%
+
+📉 PERFORMANCE DROPS BY SIZE:
+   ✓ 500M → 1.5B: +9.60%
+   ✓ 1.5B → 3B: +3.20%
+   ✓ 3B → 7B: +21.40%
+   ✓ 7B → 9B: +6.60%
+
+======================================================================
+FILES SAVED
+======================================================================
+
+Results: ./results_qwen_stage3/
+  - pareto_frontier_complete.csv
+  - pareto_frontier_main.png
+  - performance_cliff_analysis.png
+  - pareto_compression_accuracy.png
+  - distilled_*_results.json (8 files)
+  - stage3_distillation_comparison.csv
+
+Models: ./models_qwen_stage3/
+  - distilled_500M/, distilled_1.5B/, distilled_3B/, distilled_7B/
+  - distilled_*_merged/ (4 merged versions)
+
+======================================================================
+NEXT STEPS - PAPER WRITING
+======================================================================
+
+1. Use complete Pareto frontier in paper figures
+2. Analyze performance cliffs in discussion
+3. Compare distillation vs quantization trade-offs
+4. Recommend optimal deployment models
+
+======================================================================

@@ -1,0 +1,22 @@
+{
+  "model_name": "BF16_Teacher",
+  "with_context": {
+    "accuracy": 98.6,
+    "correct": 493,
+    "total": 500,
+    "time_seconds": 74.08238744735718
+  },
+  "without_context": {
+    "accuracy": 75.8,
+    "correct": 379,
+    "total": 500,
+    "time_seconds": 68.89550614356995
+  },
+  "reading_skill": 22.799999999999997,
+  "size_info": {
+    "total_params": 8090401280,
+    "total_params_billions": 8.09040128,
+    "memory_mb": 15431.21630859375,
+    "memory_gb": 15.069547176361084
+  }
+}

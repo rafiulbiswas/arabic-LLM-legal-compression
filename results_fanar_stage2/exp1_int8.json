@@ -1,0 +1,23 @@
+{
+  "model_name": "INT8_BNB",
+  "with_context": {
+    "accuracy": 99.2,
+    "correct": 496,
+    "total": 500,
+    "time_seconds": 3387.621064901352
+  },
+  "without_context": {
+    "accuracy": 79.4,
+    "correct": 397,
+    "total": 500,
+    "time_seconds": 2557.4332077503204
+  },
+  "reading_skill": 19.799999999999997,
+  "size_info": {
+    "total_params": 8783871488,
+    "total_params_billions": 8.783871488,
+    "memory_mb": 8815.906251907349,
+    "memory_gb": 8.60928344912827
+  },
+  "compression_ratio": 0.5262000466848561
+}

@@ -1,0 +1,24 @@
+{
+  "model_name": "Distilled_1.5B_INT4",
+  "with_context": {
+    "accuracy": 86.6,
+    "correct": 433,
+    "total": 500,
+    "time_seconds": 143.83386516571045
+  },
+  "without_context": {
+    "accuracy": 49.8,
+    "correct": 249,
+    "total": 500,
+    "time_seconds": 120.9620349407196
+  },
+  "reading_skill": 36.8,
+  "size_info": {
+    "total_params": 888616448,
+    "total_params_billions": 0.888616448,
+    "memory_mb": 1070.15185546875,
+    "memory_gb": 1.0450701713562012
+  },
+  "student_size": "1.5B",
+  "quantization": "INT4_NF4"
+}

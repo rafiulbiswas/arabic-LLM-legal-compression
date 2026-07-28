@@ -1,0 +1,1202 @@
+[
+  {
+    "question": "ما هي طريقة تقديم طلب تنفيذ لورثة متوفى في حال رفض النظام إدراج أسمائهم وطلب تحديد نسبة المطالبة لكل وارث على حِدة؟",
+    "answer": "لابد أن تكون النسب مضمنة في صك الحكم، وفي حال كان التنفيذ على عقارات فإنه يتم توضيح ذلك في طلب التنفيذ.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل توجد مدة صلاحية محددة لانتهاء رخصة الممثل النظامي؟",
+    "answer": "نعم، تكون رخصة الممثل النظامي صالحة لمدة سنة.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى عيب في العين المباعة في محكمة التنفيذ؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (تنفيذ) ثم اختيار التصنيف الفرعي (منازعات غير شكلية) ثم اختيار نوع الدعوى (عيب في العين المباعة).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "does it have access to my gps information?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "ما المقصود بالسند التنفيذي: (محضر صلح من جهة مخولة) عند التقدم بطلب تنفيذ مباشر؟",
+    "answer": "يختلف المقصود بمحضر صلح من جهة مخولة عند التقدم بطلب تنفيذ مباشر حسب أنواع السندات الرئيسية التالية:عام: هي وثيقة تصدرها الجهات المرخص لها (منصة تراضي)، تثبت انتهاء الخصومة بتراضي الأطراف على الالتزام بالقيام بعمل أو امتناع عن عمل.مزاد: هي وثيقة تصدرها الجهات المرخص لها (منصة تراضي)، تثبت انتهاء الخصومة بتراضي الأطراف على الالتزام ببيع عقار أو منقول بالمزاد.إخلاء: هي وثيقة تصدرها الجهات المرخص لها (منصة تراضي)، تثبت انتهاء الخصومة بتراضي الأطراف على الالتزام بإخلاء عقار.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Is Apple required to provide advance notice to users before preventing such persons from accessing its website?",
+    "answer": "No",
+    "context": "Violation of These Terms of Use\nApple may disclose any information we have about you (including your identity) if we determine that such disclosure is necessary in connection with any investigation or complaint regarding your use of the Site, or to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Apples rights or property, or the rights or property of visitors to or users of the Site, including Apples customers. Apple reserves the right at all times to disclose any information that Apple deems necessary to comply with any applicable law, regulation, legal process or governmental request. Apple also may disclose your information when Apple determines that applicable law requires or permits such disclosure, including exchanging information with other companies and organizations for fraud protection purposes.\n\nYou acknowledge and agree that Apple may preserve any transmittal or communication by you with Apple through the Site or any service offered on or through the Site, and may also disclose such data if required to do so by law or Apple determines that such preservation or disclosure is reasonably necessary to (1) comply with legal process, (2) enforce these Terms of Use, (3) respond to claims that any such data violates the rights of others, or (4) protect the rights, property or personal safety of Apple, its employees, users of or visitors to the Site, and the public.\n\nYou agree that Apple may, in its sole discretion and without prior notice, terminate your access to the Site and/or block your future access to the Site if we determine that you have violated these Terms of Use or other agreements or guidelines which may be associated with your use of the Site. You also agree that any violation by you of these Terms of Use will constitute an unlawful and unfair business practice, and will cause irreparable harm to Apple, for which monetary damages would be inadequate, and you consent to Apple obtaining any injunctive or equitable relief that Apple deems necessary or appropriate in such circumstances. These remedies are in addition to any other remedies Apple may have at law or in equity.\n\nYou agree that Apple may, in its sole discretion and without prior notice, terminate your access to the Site, for cause, which includes (but is not limited to) (1) requests by law enforcement or other government agencies, (2) a request by you (self-initiated account deletions), (3) discontinuance or material modification of the Site or any service offered on or through the Site, or (4) unexpected technical issues or problems.\n\nIf Apple does take any legal action against you as a result of your violation of these Terms of Use, Apple will be entitled to recover from you, and you agree to pay, all reasonable attorneys fees and costs of such action, in addition to any other relief granted to Apple. You agree that Apple will not be liable to you or to any third party for termination of your access to the Site as a result of any violation of these Terms of Use.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "ما هو المقصود بعبارة (محال للدائرة) عند الاستعلام عن حالة طلب (صحيفة دعوى)؟",
+    "answer": "تم قبول طلب (صحيفة دعوى) من قبل مركز تدقيق الدعاوى وتم إحالته للدائرة القضائية",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي الإجراءات التي يجب اتباعها عند رغبة ضم العقارات المتجاورة والمملوكة لشخص واحد في صك واحد؟",
+    "answer": "يجب أن لا يفصل بين العقارات شوارع، وأن تدعو الحاجة للضم، وألا يترتب على الضم مخالفة التعليمات، وأخذ رأي الجهة المختصة، وتتولى الضم المحكمة وتبلغ الجهات التي صدرت منها الصكوك للتهميش على سجلاتها بما تم من تظهير عليها.",
+    "context": "## نص التعميم: ---  (فبناءً على ما تلقته الوزارة من بعض المحاكم من استشكال حول قسمة العقارات الموروثة إذا كانت في أكثر من بلد وأريد قسمتها وكذلك موضوع صكوك العقارات المتجاورة والمملوكة لشخص واحد وأريد ضمها ... الخ . وحيث إنه بإحالة ذلك إلى معالي رئيس مجلس القضاء الأعلى بخطابنا رقم 18/1/407 في 27/4/1417هـ ولاحقه رقم 18/57089 في 1/2/1420هـ وردنا خطاب معاليه رقم 1/1167 في 27/5/1420هـ ومشفوعه قرار مجلس القضاء الأعلى بهيئته العامة رقم 235/49 في 29/4/1420هـ المتضمن أنه بدراسة ذلك وتداول الرأي . وبناء على ما تقتضيه المصلحة العامة فإن المجلس يقرر ما يلي :- 1- تكون قسمة العقارات في البلد الذي فيه الورثة إذا كان هو مقر إقامتهم الدائمة في إحدى مدن المملكة إن اتفقوا على ذلك . 2- إذا أراد القاضي الذي يتولى القسمة معرفة شيء عن العقارات التي يراد قسمتها وهي خارج ولايته القضائية كمعرفة قيمتها أو حدودها أو موقعها أو غير ذلك فإنه يكاتب القاضي الذي في البلد الذي فيه العقار وعلى القاضي المستخلف إفادة القاضي ناظر القضية بكتاب بما يطلبه منه حسب الأصول الشرعية والتعليمات . 3- العقارات المتجاورة والمملوكة لشخص واحد إذا أريد ضمها في صك واحد وكانت بعض صكوكها صادرة من المحكمة وبعضها صادرة من كتابة العدل فإنه لا مانع من ضمها إذا لم يفصل بينها شوارع ودعت الحاجة لذلك ولم يترتب على هذا الضم مخالفة التعليمات وأخذ رأي الجهة المختصة في ذلك وتتولى الضم المحكمة وتبلغ الجهات التي صدرت منها الصكوك للتهميش على سجلاتها بما تم من تظهير عليها . 4- إن كان ذلك يتعلق بوقف أو قصار فيرفع ما تجريه المحكمة إلى التمييز وفق ما تقضي به التعليمات . لذا نرغب الاطلاع واعتماد موجبه) / و .",
+    "task_type": "direct_qa"
+  },
+  {
+    "question": "ما هو الإجراء المتبع في حال تم رفض طلب التنفيذ لوجود خطأ أو نقص في بيانات المدعى عليه في صك الحكم؟",
+    "answer": "يتم تقديم طلب على القضية بتصحيح الحكم وتفسيره، وبعد التعديل على صك الحكم يمكن إعادة تقديم طلب التنفيذ.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي إجراءات تسجيل متدرب لدى مكتب محاماة عن طريق تمهير، وهل التدريب عن طريق تمهير بُعتد به؟",
+    "answer": "نعم، يعتد به، ويتم تسجيل المتدرب عن طريق إرفاق برنت من شاشة المحامي في هدف، مذكور فيه اسم المحامي، واسم المتدرب، ويتم رفع طلب شهادة متدرب.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هو المقصود بعبارة (يرجى إرفاق مستندات الدعوى بصورة واضحة وسليمة) عند الاستعلام عن حالة طلب (صحيفة دعوى)؟",
+    "answer": "أي ينبغي رفع المستندات المتعلقة بالدعوى بحيث يمكن من خلالها الاطلاع على هذه المستندات بكامل محيطها وأن تكون بصيغة (PDF).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ماهي خطوات التقدم لخدمة طلب اصدار خطاب حضانة؟",
+    "answer": "يمكنكم رفع الطلب للدائرة المختصة من خلال اتباع الخطوات التالية:تسجيل الدخول إلى بوابة ناجز بحساب النفاذ الوطني.اختيار جميع الخدمات الإلكترونية.اختيار باقة (التنفيذ).الدخول إلى خدمة (طلب إصدار خطاب حضانة).الضغط على أيقونة (تقديم طلب جديد).اختيار طلب التنفيذ.الضغط على (طلبات إجراء أخرى).اختيار (طلب إصدار خطاب حضانة).إدخال البيانات المطلوبة ( المنفذ ضده -السبب). الضغط على أيقونة (تقديم طلب).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "what kind of data does groupon collect?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "Do the terms stipulate a specific age that applies across all jurisdictions above which users do not require parental consent in order to access Microsoft services?",
+    "answer": "No",
+    "context": "Kids and Accounts. By creating a Microsoft account or using the Services, you accept and agree to be bound by these Terms and represent that you have either reached the age of majority where you live or your parent or legal guardian agrees to be bound by these Terms on your behalf. If you do not know whether you have reached the age of majority where you live, or do not understand this section, please ask your parent or legal guardian for help. If you are the parent or legal guardian of a minor, you and the minor accept and agree to be bound by these Terms and are responsible for all use of the Microsoft account or Services, including purchases, whether the minors account is now open or created later.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "ما هي خطوات الإطلاع على طلبات الإعسار؟",
+    "answer": "يمكن الاطلاع على طلبات الإعسار من خلال تسجيل الدخول إلى بوابة ناجز بحساب النفاذ الوطني، ثم اختيار جميع الخدمات الإلكترونية، ثم اختيار باقة \"التنفيذ\"، ثم الدخول لخدمة \"طلبات الاعسار\" ، ثم الضغط على أيقونة \"تقديم طلب جديد\"، ثم يتم عرض قائمة بطلبات الاعسار.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "when i play the game in this app any hanging problems faced in my mobile?",
+    "answer": "Irrelevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "Will Google always allow me to transfer my content out of my Google account?",
+    "answer": "No",
+    "context": "Were constantly developing new technologies and features to improve our services. For example, we invest in artificial intelligence that uses machine learning to detect and block spam and malware, and to provide you with innovative features like simultaneous translations. As part of this continual improvement, we sometimes add or remove features and functionalities, increase or decrease limits to our services, and start offering new services or stop offering old ones.\n\nIf we make material changes that negatively impact your use of our services or if we stop offering a service, well provide you with reasonable advance notice and an opportunity to export your content from your Google Account using Google Takeout, except in urgent situations such as preventing abuse, responding to legal requirements or addressing security and operability issues.",
+    "task_type": "consumer_contract_qa_train_translated_final2"
+  },
+  {
+    "question": "ما هي طريقة التقديم على خدمة تصحيح الحكم أو تفسيره؟",
+    "answer": "يمكن التقدم بطلب تصحيح الحكم أو تفسيره من خلال أيقونة الطلبات على القضية.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يمكن قسمة تركة مشتملة على رهن؟",
+    "answer": "لابد من فك الرهن أولًا.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "do you know my location",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "Does Reddit permit the use of its services for the purpose of hosting competitions or similar activities?",
+    "answer": "Yes",
+    "context": "5. Third-Party Content, Advertisements, and Promotions\nThe Services may contain links to third-party websites, products, or services, which may be posted by advertisers, our affiliates, our partners, or other users (Third-Party Content). Third-Party Content is not under our control, and we are not responsible for any third partys websites, products, or services. Your use of Third-Party Content is at your own risk and you should make any investigation you feel necessary before proceeding with any transaction in connection with such Third-Party Content.\n\nThe Services may also contain sponsored Third-Party Content or advertisements. The type, degree, and targeting of advertisements are subject to change, and you acknowledge and agree that we may place advertisements in connection with the display of any Content or information on the Services, including Your Content.\n\nIf you choose to use the Services to conduct a promotion, including a contest or sweepstakes (Promotion), you alone are responsible for conducting the Promotion in compliance with all applicable laws and regulations at your own risk. Your Promotion must state that the Promotion is not sponsored by, endorsed by, or associated with Reddit, and the rules for your Promotion must require each entrant or participant to release Reddit from any liability related to the Promotion.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "هل يمكن استخراج الوكالة بلغة غير اللغة العربية؟",
+    "answer": "الوكالة يتم استخراجها باللغة الرسمية وهي اللغة العربية، في حال رغب الموكل بالتوكيل بوكالة خارجية لغرض استخدامها خارج المملكة بلغة غير العربية، فإنه يتوجب عليه ترجمتها من قبل مركز ترجمة معتمد ومن ثم المصادقة عليها من قبل وزارة العدل.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يمكن إفراغ عقار هبة لأكثر من شخص عن طريق منصة البورصة العقارية ؟",
+    "answer": "نعم، إمكانية وهب عقار لأكثر من شخص متاحة في منصة البورصة العقارية",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي الخطوات المتبعة لتسجيل وكالة إلكترونيًا؟",
+    "answer": "يمكن تقديم طلب تسجيل وكالة إلكترونيًا عن طريق بوابة ناجز، وذلك من خلال الخطوات التالية:تسجيل الدخول على بوابة ناجز بحساب النفاذ الوطنيإختيار جميع الخدمات الإلكترونيةإختيار باقة \"الوكالات والإقرارات\"الدخول لخدمة \" طلب تسجيل وكالة \"الضغط على أيقونة \" استخدام الخدمة \"تحديد نوع الوكالةإضافة الموكل/الموكلينإضافة الوكيل/الوكلاءاختيار بنود الوكالة اختيار مدة الوكالةمراجعة الطلب واعتمادهاستكمال إصدار الوكالة عبر خدمة كتابة العدل الافتراضية",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "does the app phone home about your plans?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "من هم الأشخاص الذين يُستثنون من شرط كون المترافع أمام المحاكم محامياً مقيداً في جدول الممارسين وفقاً للمادة (18) من نظام المحاماة؟",
+    "answer": "الأشخاص الذين يُستثنون من شرط كون المترافع أمام المحاكم محامياً مقيداً في جدول الممارسين هم: وكيل في قضية واحدة إلى ثلاث، الأزواج أو الأصهار أو الأشخاص من ذوي القربى حتى الدرجة الرابعة، الممثل النظامي للشخص المعنوي، الوصي والقيم وناظر الوقف، ومأمور بيت المال فيما هو من اختصاصه.",
+    "context": "## نص التعميم: ---  ( فبنـاء على ما ورد في المادة ( 18 ) من نظام المحاماة التي نصت على أنه [ للمحامين المقيدين في جدول الممارسين دون غيرهم- حق الترافع عن الغير أمام المحاكم أو ديوان المظالم، أو اللجان المشار إليها في المادة (الأولى) من هذا النظام، واستثناء من ذلك يقبل للترافع عن الغير من يأتي: أ – أي وكيل في قضية واحدة إلى ثلاث، فإن باشر الوكيل ثلاث قضايا عن ثلاثة أشخاص متعددين لا تقبل وكالته عن غيرهم. ب- الأزواج أو الأصهار أو الأشخاص من ذوي القربى حتى الدرجة الرابعة . ج – الممثل النظامي للشخص المعنوي . د – الوصي والقيم وناظر الوقف في قضايا الوصاية والقوامة ونظارة الوقف التي يقومون عليها. هـ- مأمور بيت المال فيما هو من اختصاصه حسب النظام والتعليمات ] أهـ . وبنـاء على ما ورد في اللائحة التنفيذية لنظام المحاماة ( 18/11 ) - مع مراعاة ما ورد في اللائحة التنفيذية للنظام ( 3/10 ) المتضمنة أنه يحق للمتدرب مباشرة أكثر من ثلاث قضايا ، ولأكثر من ثلاثة أشخاص بصفته وكيلا عن المحامي - . فإننـا نرغب إليكم الاطلاع والتقيد بما جاء في المادة المذكورة ، وعدم قبول الترافع عن الغير إلا للمحامين المقيدين في جدول المحامين الممارسين ، ويستثنى من ذلك من تم ذكرهم في المادة ( 18 ) من النظام والمادة ( 18/11 ) من اللائحة التنفيذية ، وأن يطلب من الوكيل ما يثبت كونه محاميا ، وإن كان من غير المحامين فلا يقبل ترافعه حتى يقوم بتوقيع الإقرار الخاص بذلك والمرفق نسخة منه ، والمتعلق بقضايا الوكلاء غير المحامين .) / و.",
+    "task_type": "direct_qa"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى إبطال وقف أو وصية في محكمة الأحوال الشخصية؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (أحوال شخصية) ثم اختيار التصنيف الفرعي (دعاوى الأوقاف والوصايا) ثم اختيار نوع الدعوى (إبطال وقف أو وصية).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي الإجراءات المتعلقة بقسمة الأموال المشتركة التي تدخل في اختصاصات المحاكم وفقاً لنص التعميم؟",
+    "answer": "الإجراءات المتعلقة بقسمة الأموال المشتركة تشمل قسمة التركات وإجراءات تعيين المصفي والتبليغ والإحضار والإعلان وإخلاء العقار.",
+    "context": "## نص التعميم: ---  فإشارة إلى تعميم الوزارة 13/ت/5195 في 28/1/1435هـ المبني على المرسوم الملكي رقم (م/1) في 22/1/1435هـ, بشأن نظام المرافعات الشرعية. وإشارة إلى المادة الثامنة عشرة بعد المائتين من نظام المرافعات الشرعية التي نصت على أن: (تحدد لوائح هذا النظام الضوابط والإجراءات المتعلقة بقسمة الأموال المشتركة التي تدخل في اختصاصات المحاكم, بما في ذلك قسمة التركات وإجراءات تعيين المصفي والتبليغ والإحضار والإعلان وإخلاء العقار), وبناءً على المادة الأربعين بعد المائتين والتي تتضمن أن اللوائح التنفيذية للنظام تصدر بقرار من وزير العدل, وحيث صدر قرارنا رقم (1610) في 14/5/1439هـ بالموافقة على لائحة قسمة الأموال المشتركة. لذا أرغب إليكم الاطلاع والعمل موجبه, وتجدون برفقه صورة من القرار واللائحة المشار إليهما. والله يحفظكم /و",
+    "task_type": "direct_qa"
+  },
+  {
+    "question": "Is Verizon obligated to inform users of every modification to the terms of service?",
+    "answer": "No",
+    "context": "Third Party Beneficiaries and Conflicts. These Terms control the relationship between you and us. They do not create any third party beneficiary rights. If there is a conflict or inconsistency between the terms in this document and the additional terms associated with a particular Service, the additional terms will control solely for that conflict or inconsistency.\n\nModification of the Terms. Unless stated differently for your country in Section 14, we may modify the Terms from time to time. Unless we indicate otherwise, modifications will be effective as of the date they are posted on this page or any successor page. You should look at the Terms regularly. We will provide notice (in accordance with Section 3(c) above) of material modifications.\n\nContinued Use of the Services. You may stop using the Services at any time, but your continued use of or subscription to a Service after the effective date of any modifications to the Terms or the means that you agree to the Terms as modified.\n\nWaiver and Severability of Terms. Our failure to exercise or enforce any right or provision of these Terms will not constitute a waiver of such right or provision. If any provision (or part of a provision) of these Terms is found to be invalid, you and we nevertheless agree to give effect to the intentions as reflected in the provision, and the other provisions of these Terms remain in full force and effect.\n\nAssignment by Us. We may freely assign these Terms and all of the policies and other documents incorporated or referenced in it (including all rights, licenses, and obligations under it or them), in whole or in part and without notice, for any reason, including for the purpose of internal restructuring (for example, mergers or liquidations).",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "ما هو المقصود بعبارة (تم رفض الطلب بسبب أن الختم غير موجود) عند رفض طلب (تحديث صك)؟",
+    "answer": "هذه الملاحظة تعني بأن الصك المرفق في الطلب من قبل المستفيد لا يتوافق مع سجلات وزارة العدل، ويجب على المستفيد تقديم طلب مفقود.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يمكن قسمة تركة بالإجبار؟",
+    "answer": "نعم، يمكن ذلك وفقًا للائحة الأموال المشتركة، ونظام الأحوال الشخصية.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما الإجراء في حال رغبة المأذون بالتوقف عن المأذونية؟",
+    "answer": "يقوم المأذون بتسليم الضبوط إلى المحكمة المختصة",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي الخطوات المتبعة عند التعرض لعملية نصب واحتيال لكي يتم استرداد الحق؟",
+    "answer": "يمكن تقديم بلاغ بذلك لدى الشرطة، واستكمال إجراءات التحقيق الأولية وجمع المعلومات والإيضاحات الازمة، كما يحق رفع صحيفة دعوى نصب واحتيال ومباشرتها أمام المحكمة الجزائية؛ بعد تقديم رقم قيد الدعوى العامة، أو أمر الحفظ الصادر من النيابة العامة.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي أسباب إنهاء طلب التنفيذ؟",
+    "answer": "لإنهاء طلب التنفيذ عدة أسباب من ضمنها سداد المنفذ ضده لمبلغ المطالبة، ولتوضيح سبب إنهاء الطلب يمكن تقديم طلب إجراء من الدائرة.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "will the personal info i share with this app to sign up be shared with other companies, etc?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "متى يحق للمستفيد التقدم بطلب إعادة إصدار ترخيص مأذون أنكحة؟",
+    "answer": "يحق للمستفيد التقدم بالطلب في حال انتهاء ترخيصه أو إذا تبقى على انتهائه أقل من تسعين يومًا ولم يتقدم بطلب تجديد.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "كيف يمكن للطالب/الطالبة التقدم بطلب التدريب التعاوني في وزارة العدل؟",
+    "answer": "يمكن إرسال طلب التدريب التعاوني للجهة المختصة على البريد الإلكتروني التالي: Traning-HQ@moj.gov.sa",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Is it possible that Ill have to pay money for the services?",
+    "answer": "Yes",
+    "context": "Using the Services\n\nAuthority. You agree that you are permitted to use the Services under applicable law. If you are using the Services on behalf of a company, business or other entity, you represent that you have the legal authority to accept these Terms on behalf of that entity, in which case that entity accepts these Terms, and \"you\" means that entity. If you are accessing an account(s) on behalf of the account owner (e.g., as an administrator, consultant, analyst, etc.), the Terms apply to your activities on behalf of the account owner.\n\nIndemnity. If you are using the Services on behalf of a company, business or other entity, or if you are using the Services for commercial purposes, you and the entity will hold harmless and indemnify the Verizon Media Entities (defined in Section 8 below) from any suit, claim or action arising from or related to the use of the Services or violation of these Terms, including any liability or expense arising from claims (including claims for negligence), losses, damages, suits, judgments, litigation costs and attorneys fees.\n\nAge. If you are under the Minimum Age (as defined for your region in Section 14) you may not register for an account. Unless you are the holder of an existing account in the United States that is a Yahoo Family Account, you must be at least the Minimum Age to use the Services. Certain portions of the Services contain adult and/or mature content. Please do not access that content unless you are an adult (i.e., at least the age of majority in your country) or unless otherwise expressly indicated.\n\nMember Conduct. You agree not to use the Services to:\nobtain or attempt to obtain unauthorized access to the Services or to our servers, systems, network, or data;\nmake available any content that is harmful to children, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically, or otherwise objectionable;\nviolate any applicable laws or regulations;\nimpersonate any person or entity; or forge or manipulate headers or identifiers to disguise the origin of any content transmitted through the Service;\nmake available any content that you do not have the right to make available or that infringes any patent, trademark, trade secret, copyright or other proprietary rights of any person or entity;\npost content containing advertisements or other commercial solicitations without our prior written permission;\n\nmake available viruses or any other computer code, files, programs or content designed to interrupt, destroy or limit the functionality of the Services or affect other users; or\ninterfere with or disrupt the Services or servers, systems or networks connected to the Services in any way.\n\nUse of Services. You must follow any guidelines or policies associated with the Services. You must not misuse or interfere with the Services or try to access them using a method other than the interface and the instructions that we provide. You may use the Services only as permitted by law. Unless otherwise expressly stated, you may not access or reuse the Services, or any portion thereof, for any commercial purpose.\n\nExport Control. You agree to comply with the export control laws and regulations of the United States and trade controls of other applicable countries, including without limitation the Export Administration Regulations of the U.S Department of Commerce, Bureau of Industry and Security and the embargo and trade sanctions programs administered by the U.S. Department of Treasury, Office of Foreign Assets Control. You represent and warrant that you: (1) are not a prohibited party identified on any government export exclusion lists (see e.g., http://www.bis.doc.gov/complianceandenforcement/liststocheck.htm); (2) will not re-export or use the Services to transfer software, technology, or other technical data to prohibited parties or countries; and (3) will not use the Services for military, nuclear, missile, chemical or biological weaponry end uses or conduct any other activities involving the Services that violate the export and import laws of the U.S. or other applicable countries.\n\nAnti-Corruption Laws. You agree to comply with all applicable anti-corruption laws including laws that prohibit unlawful payments to anyone for a corrupt purpose in relation to these Terms.\n\nOwnership and Reuse. Using the Services does not give you ownership of any intellectual or other property rights or interests in the Services or the content you access. You must not use any branding or logos used in the Services unless we have given you separate explicit written permission. You may not remove, obscure, or alter any legal notices displayed in or along with the Services. Unless you have explicit written permission, you must not reproduce, modify, rent, lease, sell, trade, distribute, transmit, broadcast, publicly perform, create derivative works based on, or exploit for any commercial purposes, any portion or use of, or access to, the Services (including content, advertisements, APIs, and software).\n\nSoftware License. Subject to your continuing compliance with these Terms, we grant you a personal, royalty-free, non-transferable, non-assignable, revocable, and non-exclusive license to use the software and APIs we may provide to you as part of the Services. This license is for the sole purpose of enabling you to use and enjoy the benefit of the Services we provide, in the manner permitted by these Terms and any additional terms or guidelines. You may not reverse engineer or attempt to extract the source code of our software, unless applicable laws prohibit those restrictions or you have our explicit written permission. Our software may automatically download and install security or other updates without prior notification to you.\n\nSupport. Unless otherwise expressly stated, we do not promise to provide you with any support for the Services. If we provide you with support, it is at our sole discretion and does not mean that we will continue to provide you with support in the future.\n\nFees. We reserve the right to charge fees for use of or access to the Services (and any associated support), whether currently in existence or not, in our sole discretion. If we decide to charge fees, our payment terms will apply and we will provide you with prior notice.\n\nDifferent Versions of the Services. Different features may be available in different versions of the Services and not all features may be available in your country or region. Also, not all features may be available if the user that you are communicating with is using a different version of the Services, or is using third party software.\n\nAnti-Abuse Policy. We prohibit sending unsolicited emails or messages using our Services. You may not in connection with the Services engage in commercial activity on non-commercial properties or apps or high volume activity without our prior written consent. You may not engage in conduct or activity that is disruptive to the Services or the experience of other users.\n\nEnvrmnt 360 Terms. U.S. Users: The Envrmnt 360 terms apply to you and can be found here and here in Spanish.\n\nRSS Feeds. If you use an RSS feed provided by us (each, a Verizon Media RSS Feed), you are only permitted to display the content that is provided in the feed, without modification, and you must provide attribution to our source website and link to the full article on our source website. You may not remove our attributions or links back, or otherwise modify Verizon Media RSS Feed content. You may not incorporate advertising into any Verizon Media RSS Feed. We reserve the right to discontinue any Verizon Media RSS Feed at any time and to require anyone to cease use of a Verizon Media RSS Feed at any time for any reason. Each of our products or services may also have more specific terms of use for related Verizon Media RSS Feeds.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى الصلح بعد صدور السند التنفيذي في محكمة التنفيذ؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (تنفيذ) ثم اختيار التصنيف الفرعي (منازعات غير شكلية) ثم اختيار نوع الدعوى (الصلح بعد صدور السند التنفيذي).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "كيف يقوم قضاة الدوائر المشتركة بالمصادقة على صك الحكم؟",
+    "answer": "عن طريق شاشة المصادقة المجمعة والتي تعرض كل صكوك الأحكام التي تحتاج مصادقة على حسب المستخدم المسجل دخوله على النظام.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "what information does the company store about me?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "Am I allowed to use Reddit to conduct a tournament?",
+    "answer": "Yes",
+    "context": "5. Third-Party Content, Advertisements, and Promotions\nThe Services may contain links to third-party websites, products, or services, which may be posted by advertisers, our affiliates, our partners, or other users (Third-Party Content). Third-Party Content is not under our control, and we are not responsible for any third partys websites, products, or services. Your use of Third-Party Content is at your own risk and you should make any investigation you feel necessary before proceeding with any transaction in connection with such Third-Party Content.\n\nThe Services may also contain sponsored Third-Party Content or advertisements. The type, degree, and targeting of advertisements are subject to change, and you acknowledge and agree that we may place advertisements in connection with the display of any Content or information on the Services, including Your Content.\n\nIf you choose to use the Services to conduct a promotion, including a contest or sweepstakes (Promotion), you alone are responsible for conducting the Promotion in compliance with all applicable laws and regulations at your own risk. Your Promotion must state that the Promotion is not sponsored by, endorsed by, or associated with Reddit, and the rules for your Promotion must require each entrant or participant to release Reddit from any liability related to the Promotion.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "هل يحق للمنفذ ضده الامتناع عن تسليم الأبناء في مركز شمل في حال عدم التزام طالب التنفيذ بدفع أجرة النقل؟",
+    "answer": "يستمر التنفيذ مع أحقية المطالبة بأجرة النقل لدى محكمة التنفيذ.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي الدعاوى والطلبات المستثناة من التكاليف القضائية؟",
+    "answer": "الدعاوى الجزائية العامة والدعاوى التأديبية والطلبات المتعلقة بها. قضايا الأحوال الشخصية والطلبات المتعلقة بها عدا طلب النقض وطلب التماس إعادة النظر. الدعاوى والطلبات التي يختص بها ديوان المظالم. الدعاوى والطلبات الناشئة عن تطبيق أحكام نظام الإفلاس. الدعاوى والطلبات المتعلقة بدعاوى قسمة التركات عدا طلب النقض والتماس إعادة النظر. الإنهاءات وما يتعلق بها من طلبات.",
+    "context": "تسري أحكام النظام على جميع الدعاوى والطلبات التي تقدم إلى المحاكم، فيما عدا ما يأتي:  1.الدعاوى الجزائية العامة،والدعاوى التأديبية،والطلبات المتعلق بها.  2.الدعاوى والطلبات التي تختص بها محاكم الأحوال الشخصية، عدا طلب النقض وطلب التماس إعادة النظر.  3.الدعاوى والطلبات التي يختص بها ديوان المظالم.  4.الدعاوى والطلبات المتعلقة بدعاوى قسمة التركات، عدا طلب النقض وطلب التماس إعادة النظر.  5.الدعاوى والطلبات الناشئة عن تطبيق أحكام نظام الإفلاس.  6.الإنهاءات وما يتعلق بها من طلبات.",
+    "task_type": "najiz_qa_v2"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى إنهائية لإثبات أقرب ولي لتزويج؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (إنهاءات) ثم اختيار التصنيف الفرعي (إثباتات اجتماعية) ثم اختيار نوع الدعوى (إثبات أقرب ولي لتزويج).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يمكن إضافة وكيل أو محامي عن المدعى عليه عند التقدم على طلب صحيفة الدعوى؟",
+    "answer": "لا، لا يمكن إضافة وكيل أو محامي عن المدعى عليه عند التقدم على طلب صحيفة الدعوى.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "كم تبلغ رسوم تجديد ترخيص مكتب محاماة أجنبي؟",
+    "answer": "يكون رسم تجديد الترخيص لمكتب المحاماة الأجنبي 1000 ريال، وذلك بناءً على ما ورد في المادة (48/2) من نظام المحاماة",
+    "context": "1- تكون مدة الترخيص لمزاولة مكتب المحاماة الأجنبي مهنة المحاماة في المملكة (خمس) سنوات، قابلة للتجديد لمدة أو لمدد أخرى مماثلة وفقاً للشروط المحددة في المادة (الخامسة والأربعين) من هذا النظام.  2- يكون رسم إصدار الترخيص لمكتب المحاماة الأجنبي بمبلغ قدره (ألفا) ريال، و(ألف) ريال عند تجديده.",
+    "task_type": "najiz_qa_v2"
+  },
+  {
+    "question": "ما هو الإجراء المتبع عند تعبئة البيانات وطلب حجز موعد مع المأذون ولم تظهر قائمة المأذونين في المدينة؟",
+    "answer": "يمكن الاطلاع على قائمة المأذونين في بوابة ناجز عبر الرابط التالي: https://najiz.sa/applications/marriage-officials/marriageOfficialGuide",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى عدم توفر شرط شكلي للسند أو تزويره أو إنكار التوقيع في محكمة التنفيذ؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (تنفيذ) ثم اختيار التصنيف الفرعي (منازعات شكلية) ثم اختيار نوع الدعوى (عدم توفر شرط شكلي للسند أو تزويره أو إنكار التوقيع).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يصل للزوجة رابط مصادقة على طلب توثيق رجعة؟ وما هو الإجراء الذي يتقدم به الزوج في حال عدم مصادقة الزوجة؟",
+    "answer": "نعم، يصلها رسالة مصادقة ولابد من مصادقة الزوجة على الطلب، وفي حال عدم المصادقة يمكن تقديم صحيفة دعوى إثبات رجعة.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "can my call log be subpoenaed?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "هل يمكن للمستفيد مراجعة المحكمة وتقديم الاعتراض بشكل يدوي عند وجود مشكلة تقنية تمنع من تقديم طلب الاعتراض؟",
+    "answer": "لا يمكن تقديم طلب الاعتراض على الحكم ورقياً، وفي حال وجود مشكلة تقنية يمكن الاتصال على الرقم الموحد (1950) أو من خلال الدخول على خدمة التواصل العدلي في بوابة ناجز.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Does eBay translate product listings even if I dont ask for that?",
+    "answer": "Yes",
+    "context": "Many of our Services are accessible internationally. We may offer certain programs, tools, and site experiences of particular interest to international sellers and buyers, such as estimated local currency conversion and international shipping calculation tools. Sellers and buyers are responsible for complying with all laws and regulations applicable to the international sale, purchase, and shipment of items.\n\nIf you purchase an item on an eBay site that is different from your registration site, you are subject to the User Agreement and applicable policies of that other eBay site with respect to that particular purchase, as detailed in the International Selling Policy.\n\nFor sellers, you agree that we may display your listing for sale on an eBay site other than the site where you listed your item for sale, based on your shipping settings. You may adjust these settings as detailed in the International Selling Policy. If you list your items with an international shipping option, the appearance of your listings on sites other than the listing site is not guaranteed. If you sell an item on an eBay site that is different from your registration site, you are subject to the User Agreement and applicable policies, including any buyer protection programs, of that other eBay site with respect to that particular sale, as detailed in the International Selling Policy.\n\nYou authorize us to use automated tools to translate your eBay content and member-to-member communications, in whole or in part, into local languages where such translation solutions are available. We may provide you with tools which will enable you to translate content at your request. The accuracy and availability of any translation are not guaranteed.\n\nOne of the ways that we may make eBay.com listings available to international buyers on eBay.com and on eBay's international sites is through the Global Shipping Program. For eligible items located in the United States and purchased by an international buyer through the Global Shipping Program, you (as seller) will simply ship the item to a parcel processing facility located in the United States after receiving notification of payment from the buyer. Pitney Bowes Inc., a third-party global shipping provider, will oversee the processing, customs clearance, and international shipment of the item on behalf of your international buyer. To the extent a buyer has a question about your Global Shipping Program listings, eBay may respond directly to the buyer if the question pertains to the services overseen by Pitney Bowes Inc. (for example, customs or international shipping). Sellers pay no additional fees for selling through the Global Shipping Program.\n\nPursuant to a routed export transaction under the U.S. Export Administration Regulations and Foreign Trade Regulations, the buyer, as the Foreign Principal Party in Interest, will agree to assume responsibility for the export shipment, with Pitney Bowes Inc. acting as your buyer's forwarding agent. You remain liable for the accuracy of information you provide about items, and you agree to provide timely responses to requests for additional information.\n\nYou consent to the disclosure of certain personally identifiable information, as well as listing and order information, by eBay to Pitney Bowes Inc., and by Pitney Bowes Inc. to its affiliates, service providers, and other third parties (such as customs and revenue authorities, as well as other government agencies), in connection with the processing, export and customs clearance, and international transportation of any item. eBay does not control the privacy policies of Pitney Bowes Inc., its affiliates, or its service providers, and you are subject to the privacy policies of those parties, as applicable.\n\nAdditional information about the program, including policies governing feedback, the handling of lost, damaged, and undeliverable items, returns, and the resolution of buyer protection claims for items that you sell through the program, can be found on our Global Shipping Program and Global Shipping FAQs pages.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى الدعاية والإعلان والتسويق في المحكمة التجارية؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (تجاري) ثم اختيار التصنيف الفرعي (العقود التجارية) ثم اختيار نوع الدعوى (الدعاية والإعلان والتسويق).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هو المقصود ببرقية وزارة العدل رقم 94/75/8476/1 فيما يتعلق بقبول الوكلاء الأجانب؟",
+    "answer": "المقصود هو عدم قبول أي وكيل أجنبي فرد إلا إذا كان لكفيله فقط وعلى تأشيرات خاصة بذلك الكفيل، ولا يمنع ذلك توكيل المكاتب الأجنبية أو شخص معين لإنهاء إجراءات الاستقدام.",
+    "context": "- (المقصود في برقية هذه الوزارة رقم 94/75/8476/1 في 21/3/1409هـ هو عدم قبول أي وكيل أجنبي ـ فرد ـ ما لم يكن لكفيله فقط وعلى تأشيرات خاصة بنفس الكفيل ولا يعني ذلك عدم توكيل المكاتب الأجنبية أو شخص بعينه لقدومه بنفسه أو كون التأشيرة باسم شخص معين ويقوم صاحب التأشيرة بتوكيل ذلك الشخص على إنهاء إجراءات استقدامه.)/ك . يطلب التعميم من الوزارة",
+    "task_type": "direct_qa"
+  },
+  {
+    "question": "Does Wikimedia often get involved in policy decisions?",
+    "answer": "No",
+    "context": "The community has the primary role in creating and enforcing policies applying to the different Project editions. At the Wikimedia Foundation, we rarely intervene in community decisions about policy and its enforcement. In an unusual case, the need may arise, or the community may ask us, to address an especially problematic user because of significant Project disturbance or dangerous behavior. In such cases, we reserve the right, but do not have the obligation to:\nInvestigate your use of the service (a) to determine whether a violation of these Terms of Use, Project edition policy, or other applicable law or policy has occurred, or (b) to comply with any applicable law, legal process, or appropriate governmental request;\nDetect, prevent, or otherwise address fraud, security, or technical issues or respond to user support requests;\nRefuse, disable, or restrict access to the contribution of any user who violates these Terms of Use;\nBan a user from editing or contributing or block a user's account or access for actions violating these Terms of Use, including repeat copyright infringement;\nTake legal action against users who violate these Terms of Use (including reports to law enforcement authorities); and\nManage otherwise the Project websites in a manner designed to facilitate their proper functioning and protect the rights, property, and safety of ourselves and our users, licensors, partners, and the public.\n\nIn the interests of our users and the Projects, in the extreme circumstance that any individual has had his or her account or access blocked under this provision, he or she is prohibited from creating or using another account on or seeking access to the same Project, unless we provide explicit permission. Without limiting the authority of the community, the Wikimedia Foundation itself will not ban a user from editing or contributing or block a user's account or access solely because of good faith criticism that does not result in actions otherwise violating these Terms of Use or community policies.\n\nThe Wikimedia community and its members may also take action when so allowed by the community or Foundation policies applicable to the specific Project edition, including but not limited to warning, investigating, blocking, or banning users who violate those policies. You agree to comply with the final decisions of dispute resolution bodies that are established by the community for the specific Project editions (such as arbitration committees); these decisions may include sanctions as set out by the policy of the specific Project edition.\n\nEspecially problematic users who have had accounts or access blocked on multiple Project editions may be subject to a ban from all of the Project editions, in accordance with the Global Ban Policy. In contrast to Board resolutions or these Terms of Use, policies established by the community, which may cover a single Project edition or multiple Projects editions (like the Global Ban Policy), may be modified by the relevant community according to its own procedures.\n\nThe blocking of an account or access or the banning of a user under this provision shall be in accordance with Section 12 of these Terms of Use.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "ما هي خطوات الاستفادة من خدمة تقديم طلب صلح إلكتروني؟",
+    "answer": "يمكن التعرف على خطوات الاستفادة من خدمة تقديم طلب صلح إلكترونيًا من خلال مشاهدة الفيديو التوضيحي التالي: اضغط هنا",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي الوثائق التي يجوز تدوين بياناتها إلكترونياً وفقاً للمادة (الثانية والسبعين) من نظام المرافعات الشرعية؟",
+    "answer": "يجوز تدوين بيانات صحف الدعاوى والتبليغات ومحاضر الدعاوى والإنهاءات وغير ذلك إلكترونياً.",
+    "context": "## نص التعميم: ---  إلحاقاً لتعميم الوزارة رقم 13/ت/7790 في 22/9/1440هـ والمشار فيه إلى المادة (الثانية والسبعين) من نظام المرافعات الشرعية التي نصت على أنه: \" يجوز تدوين بيانات صحف الدعاوى والتبليغات ومحاضر الدعاوى والإنهاءات وغير ذلك إلكترونياً، ويكون لها حكم المحررات المكتوبة، وفقاً لنظام التعاملات الالكترونية\" وما تضمنه التعميم من دعم توجهات الوزارة في تمكين التحول الرقمي في القضاء، وإلغاء التعاملات الورقية، وتطوير جودة الخدمات المقدمة للمستفيدين مع المحافظة على موثوقيتها. وحيث جرى إطلاق خدمة الضبط والصك والتذييل والصيغة التنفيذية إلكترونياً. للاطلاع واعتماد المصادقة على الضبط والصك والتذييل بالتأييد والنقض واكتساب النهائية بمضي المدة والصيغة التنفيذية وذلك بشكل إلكتروني. والله يحفظكم. / ك",
+    "task_type": "direct_qa"
+  },
+  {
+    "question": "ما هي خطوات إصدار وكالة باسم الشركة؟",
+    "answer": "لإصدار وكالة باسم الشركة يرجى اتباع التالي:يتم التقدم أولًا بطلب تسجيل وكالة بصفة الموكل (ممثل شركة)يتم التقدم بطلب إصدار وكالة من قبل ممثل المنشأة عن طريق كتابة العدل الافتراضية",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "does it record my location information?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "هل يتم الحجز على أموال المدين عند تطبيق قرار (46) ؟",
+    "answer": "يتم الإفصاح عن أمـوال المدين القائمة وعما يرد إليه مستقبلاً، وذلك بمقدار ما يفي بالسند التنفيذي، وحجزها، والتنفيذ عليها، وفقًا للفقرة (3) للمادة (46) من نظام التنفيذ.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يجب على أطراف الدعوى التسجيل في منصة خبرة؟",
+    "answer": "يمكن لأطراف الدعوى الدخول إلى منصة خبرة من خلال بوابة النفاذ الوطني الموحد على الرابط التالي:https://khibrah.sa/#/case-party-login",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Will Microsoft always let me know about changes to the terms?",
+    "answer": "Yes",
+    "context": "Updates to the Services or Software, and Changes to These Terms.\na. We may change these Terms at any time, and well tell you when we do. Using the Services after the changes become effective means you agree to the new terms. If you dont agree to the new terms, you must stop using the Services, close your Microsoft account and, if you are a parent or guardian, help your minor child close his or her Microsoft account.\nb. Sometimes youll need software updates to keep using the Services. We may automatically check your version of the software and download software updates or configuration changes. You may also be required to update the software to continue using the Services. Such updates are subject to these Terms unless other terms accompany the updates, in which case, those other terms apply. Microsoft isnt obligated to make any updates available and we dont guarantee that we will support the version of the system or device for which you purchased or licensed the software, apps, content or other products.\nc. Additionally, there may be times when we need to remove or change features or functionality of the Service or stop providing a Service or access to Third-Party Apps and Services altogether. Except to the extent required by applicable law, we have no obligation to provide a re-download or replacement of any material, Digital Goods (defined in section 14.k), or applications previously purchased. We may release the Services or their features in a preview or beta version, which may not work correctly or in the same way the final version may work.\nd. So that you can use material protected with digital rights management (DRM), like some music, games, movies, books and more, DRM software may automatically contact an online rights server and download and install DRM updates.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "the photos and videos shared will be kept confidential?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "كيف يمكن الاعتراض على الحكم الصادر من محكمة الاستئناف؟",
+    "answer": "يمكن تقديم طلب التماس إعادة النظر أو طلب نقض متى توافرت أحد أسباب الطعن.بعد التحقق من توافر احد أسباب الطعن يتم إتباع الآتي:الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد اختيار القضاء ثم القضية موضوع الإعتراض ثم اختيار طلب جديد. اختيار طلب النقض اختيار الحكم المراد ادخال بيانات مضمون الطلب تقديم الطلب.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "does it need my location at all times, or can i just type in it whenever i'm looking for a coupon?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "ما هو المقصود بالمدّعي؟ والمدّعى عليه؟",
+    "answer": "المدعي: هو الطرف الذي يرفع الدعوى أمام المحكمة (المعروف باسم صاحب الدعوى) أو الذي يطالب بالحق المدعى به.المدعى عليه: هو من تُرفع عليه الدعوى، فيدعي عليه ثبوت حق.المدعي هو من لا يجبر على الخصومة إذا تركها.المدعى عليه من إذا ترك الخصومة يجبر عليها.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي طريقة طباعة صك الطلاق؟",
+    "answer": "يمكن الاطلاع على صك الطلاق وطباعته من خلال الدخول على القضية ثم أيقونة نص الحكم. أما وثيقة الطلاق فيمكن الاطلاع عليها وطباعتها من خلال الدخول على أيقونة الوثائق المعتمدة.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Is Microsoft saying that it wont be responsible for loss of data caused by its services?",
+    "answer": "Yes",
+    "context": "Notice Specific to Documents Available on this Website\nPermission to use Documents (such as white papers, press releases, datasheets and FAQs) from the Services is granted, provided that (1) the below copyright notice appears in all copies and that both the copyright notice and this permission notice appear, (2) use of such Documents from the Services is for informational and non-commercial or personal use only and will not be copied or posted on any network computer or broadcast in any media, and (3) no modifications of any Documents are made. Accredited educational institutions, such as K-12, universities, private/public colleges, and state community colleges, may download and reproduce the Documents for distribution in the classroom. Distribution outside the classroom requires express written permission. Use for any other purpose is expressly prohibited by law, and may result in severe civil and criminal penalties. Violators will be prosecuted to the maximum extent possible.\n\nDocuments specified above do not include the design or layout of the Microsoft.com website or any other Microsoft owned, operated, licensed or controlled site. Elements of Microsoft websites are protected by trade dress, trademark, unfair competition, and other laws and may not be copied or imitated in whole or in part. No logo, graphic, sound or image from any Microsoft website may be copied or retransmitted unless expressly permitted by Microsoft.\n\nMICROSOFT AND/OR ITS RESPECTIVE SUPPLIERS MAKE NO REPRESENTATIONS ABOUT THE SUITABILITY OF THE INFORMATION CONTAINED IN THE DOCUMENTS AND RELATED GRAPHICS PUBLISHED AS PART OF THE SERVICES FOR ANY PURPOSE. ALL SUCH DOCUMENTS AND RELATED GRAPHICS ARE PROVIDED \"AS IS\" WITHOUT WARRANTY OF ANY KIND. MICROSOFT AND/OR ITS RESPECTIVE SUPPLIERS HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH REGARD TO THIS INFORMATION, INCLUDING ALL WARRANTIES AND CONDITIONS OF MERCHANTABILITY, WHETHER EXPRESS, IMPLIED OR STATUTORY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL MICROSOFT AND/OR ITS RESPECTIVE SUPPLIERS BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF INFORMATION AVAILABLE FROM THE SERVICES.\n\nTHE DOCUMENTS AND RELATED GRAPHICS PUBLISHED ON THE SERVICES COULD INCLUDE TECHNICAL INACCURACIES OR TYPOGRAPHICAL ERRORS. CHANGES ARE PERIODICALLY ADDED TO THE INFORMATION HEREIN. MICROSOFT AND/OR ITS RESPECTIVE SUPPLIERS MAY MAKE IMPROVEMENTS AND/OR CHANGES IN THE PRODUCT(S) AND/OR THE PROGRAM(S) DESCRIBED HEREIN AT ANY TIME.\n\nNotices Regarding Software, Documents, and Services Available on this Website\nIN NO EVENT SHALL MICROSOFT AND/OR ITS RESPECTIVE SUPPLIERS BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF SOFTWARE, DOCUMENTS, PROVISION OF OR FAILURE TO PROVIDE SERVICES, OR INFORMATION AVAILABLE FROM THE SERVICES.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "ما المقصود بالسند التنفيذي: (حكم / أمر قضائي صادر من بلد أجنبي) عند التقدم بطلب تنفيذ مباشر؟",
+    "answer": "يختلف المقصود بالحكم / الأمر القضائي الصادر من بلد أجنبي عند التقدم بطلب تنفيذ مباشر حسب أنواع السندات الرئيسية التالية:عام: هي وثيقة رسمية صادرة من محكمة خارج المملكة في دعوى نص حكمها على إلزام بالقيام بعمل أو امتناع عن عمل، وفقاً لشروط تنفيذ الأحكام الأجنبية بموجب نظام التنفيذ.مزاد: هي وثيقة رسمية صادرة من محكمة في دعوى نص حكمها على الإلزام ببيع عقار أو منقول بالمزاد.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "what data do they take",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "كيف يتم إضافة فواتير الموقوفين العسكريين إلى مبادرة فُرجت في منصة أبشر؟",
+    "answer": "خارج اختصاص وزارة العدل، يمكن التواصل مع المديرية العامة للسجون لمعرفة الإجراءات والضوابط المتعلقة بالعسكريين الموقوفين في قضايا مالية.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى عدم الصفة في محكمة التنفيذ؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (تنفيذ) ثم اختيار التصنيف الفرعي (منازعات شكلية) ثم اختيار نوع الدعوى (عدم الصفة).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هو المقصود بصفة الموكل وصفة الوكيل؟",
+    "answer": "صفه الموكل: الشخص الذي سيصدر الوكالة عن نفسة أو عن شخص آخر بصفته وكيلًا. صفة الوكيل: الشخص الذي سيتم إصدار الوكالة له.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "كم يبلغ مقدار التكاليف القضائية لطلبات التنفيذ المالية؟",
+    "answer": "تقدر التكاليف القضائية بنسبة (2%) من قيمة المطالبة على ألا تقل هذه التكاليف عن خمسمائة ريال ولا تزيد على عشرة آلاف ريال.",
+    "context": "تُقدّر التكاليف القضائية لطلب التنفيذ المباشر بمبلغ قدره خمسمائة ريال، وفيما يتعلق بباقي طلبات التنفيذ، فتقدر التكاليف القضائية بنسبة اثنين في المائة (2%) من قيمة المطالبة على ألا تقل هذه التكاليف عن خمسمائة ريال ولا تزيد على عشرة آلاف ريال.  ويتحمل المنفذ ضده التكاليف القضائية لطلب التنفيذ ما لم يثبت أن طالب التنفيذ غير مستحق لمطالبته، فيتحمل طالب التنفيذ كامل التكاليف القضائية، وإذا كان طالب التنفيذ غير مستحق لجزء من مطالبته، فيتحمل من التكاليف القضائية بقدر هذا الجزء.",
+    "task_type": "najiz_qa_v2"
+  },
+  {
+    "question": "ما هي طريقة التنازل عن طلب التنفيذ في بوابة ناجز؟",
+    "answer": "يمكن إنهاء السند التنفيذي عن طريق الدخول:للحساب الشخصي في بوابة ناجز.التنفيذ.طلباتي.الدخول للطلب.طلب إجراء من الدائرة.اختيار طلب إنهاء السند.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى فسخ عقد أو بطلانه في المحكمة العامة؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (عامة) ثم اختيار التصنيف الفرعي (أخرى) ثم اختيار نوع الدعوى (فسخ عقد أو بطلانه).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Could my university potentially monitor what I do in Microsoft programs that I use through my university account?",
+    "answer": "Yes",
+    "context": "Work or School Accounts. You can sign into certain Microsoft services with a work or school email address. If you do, you agree that the owner of the domain associated with your email address may be notified of the existence of your Microsoft account and its associated subscriptions, control and administer your account, and access and process your Data, including the contents of your communications and files, and that Microsoft may notify the owner of the domain if the account or Data is compromised. You further agree that your use of the Microsoft services may be subject to the agreements Microsoft has with you or your organization and these Terms may not apply. If you already have a Microsoft account and you use a separate work or school email address to access Services covered under these Terms, you may be prompted to update the email address associated with your Microsoft account in order to continue accessing such Services.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "من المستفيد من خدمة طلب تجديد ترخيص مأذون أنكحة؟",
+    "answer": "المستفيد من الخدمة هو من لديه ترخيص مأذون أنكحة ساري.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل بإمكان مصفي التركة أو ناظر الوقف تقديم طلبات على القضية؟",
+    "answer": "نعم، يمكن لمصفي التركة أو ناظر الوقف تقديم طلبات على القضية إذا كان مضافًا كطرف من أطراف الدعوى.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى عزل ولي في محكمة الأحوال الشخصية؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (أحوال شخصية) ثم اختيار التصنيف الفرعي (دعاوى الولاية) ثم اختيار نوع الدعوى (عزل ولي).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "do you have any association with google?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "هل يخير الزوج عند إصدار وثيقة الطلاق إلكترونيًا بعدد الطلقات؟",
+    "answer": "نعم، يمكن للزوج اختيار عدد الطلقات في صفحة تقديم الطلب.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "has fiverr been hacked before",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "هل يمكن التقديم على الخدمات من خلال الحضور للإدارة العامة للمحاماة؟",
+    "answer": "جميع خدمات الإدارة المؤتمتة الموضحة في صفحة خدمات الإدارة في موقع الوزارة الالكتروني تقدم إلكترونياً عبر بوابة ناجز",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما المقصود بالسند التنفيذي: (محضر صلح مصادق عليه من المحكمة) عند التقدم بطلب تنفيذ شخصي؟",
+    "answer": "يختلف المقصود بمحضر صلح مصادق عليه من المحكمة عند التقدم بطلب تنفيذ شخصي حسب أنواع السندات الرئيسية التالية:نفقة ماضية: هي وثيقة صلح تصدرها وتصادق عليها المحكمة، تثبت انتهاء الخصومة بتراضي الأطراف على التزام بدفع نفقة ماضية أو التزام بدفع نفقة مستقبلية آلت إلى ماضية.نفقة مستقبلية: هي وثيقة تصدرها وتصادق عليها المحكمة، تثبت انتهاء الخصومة بتراضي الأطراف على الالتزام بدفع نفقة مستقبلية بشكل دوري وفي حال مضي تاريخ الاستحقاق فإنها تكون نفقة ماضية تقدم بطلب مستقل عن النفقة المستقبلية.حضانة: هي وثيقة صلح تصدرها وتصادق عليها المحكمة، تثبت انتهاء الخصومة بتراضي الأطراف على الالتزام فيما يخص حضانة الأطفال.زيارة: هي وثيقة صلح تصدرها وتصادق عليها المحكمة، تثبت انتهاء الخصومة بتراضي الأطراف على الالتزام فيما يخص الزيارة.صداق: هي وثيقة صلح تصدرها وتصادق عليها المحكمة، تثبت انتهاء الخصومة بتراضي الأطراف على الالتزام بدفع الصداق/عوض الفسخ.تسليم مستندات زوجية: هي وثيقة صلح تصدرها وتصادق عليها المحكمة، تثبت انتهاء الخصومة بتراضي الأطراف على الالتزام بتسليم مستندات تخص أحد أفراد الأسرة، مثل: (شهادة الميلاد، الجوازات، صك حصر الورثة).سكن زوجة وأولاد: هي وثيقة صلح تصدرها وتصادق عليها المحكمة، تثبت انتهاء الخصومة بتراضي الأطراف على الالتزام بتوفير سكن للزوجة أو الأولاد.القيام بعمل: هي وثيقة صلح تصدرها وتصادق عليها المحكمة، تثبت انتهاء الخصومة بتراضي الأطراف على الالتزام بالقيام بعمل أو امتناع عن عمل مثل: (تسليم الذهب-تسليم عفش الزوجية).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "كيف يتم الاستعلام عن الصكوك العقارية للمنشأة في حال عدم توفر البيانات ( رقم الوثيقة أو تاريخها )؟",
+    "answer": "يمكن الاستعلام من خلال الدخول على منصة البورصة العقارية بشرط وجود وكيل عن الشركة وعند دخول الوكيل ستظهر عقارات المنشأة، أما إذا كانت الصكوك ورقية قديمة فيمكن رفع تذكرة من خلال التواصل العدلي 1950 بناجز",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل من الممكن التقدم بطلب تمديد المدة الممنوحة قبل إيقاف الخدمات؟",
+    "answer": "نعم، وفقًا لضوابط إيقاف الخدمات فإنّه يمكن للأفراد وقطاع الأعمال تقديم طلب لتمديد المدة الممنوحة لهم قبل إيقاف خدماتهم، وذلك في كل مرحلة من مراحل إيقاف الخدمات: ( منخفضة الأثر - متوسطة الأثر - عالية الأثر)",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يحق للبنك الاستقطاع من مبلغ النفقة المودع في حساب المستفيد من قبل صندوق النفقة لأي سبب؟",
+    "answer": "وفق التعميم الصادر من البنك المركزي السعودي رقم (42042799) والذي ينص على أن النفقة المسلمة للمستفيدين من الصندوق لا يتم المساس بها ولا يخصم منها المديونيات أو يحجز عليها فإنه لا يحق للبنك الاستقطاع من مبلغ النفقة.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى لإثبات رهن أو بيع المرهون في المحكمة العامة؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (عامة) ثم اختيار التصنيف الفرعي (مالية) ثم اختيار نوع الدعوى (إثبات رهن أو بيع المرهون).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى إثبات وقف أو وصية في محكمة الأحوال الشخصية؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (أحوال شخصية) ثم اختيار التصنيف الفرعي (دعاوى الأوقاف والوصايا) ثم اختيار نوع الدعوى (إثبات وقف أو وصية).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Do these terms refer to other terms that will apply to me if I use Twitch?",
+    "answer": "Yes",
+    "context": "1. Introduction; Your Agreement to these Terms of Service\nPLEASE READ THESE TERMS OF SERVICE CAREFULLY. THIS IS A BINDING CONTRACT. Welcome to the services operated by Twitch Interactive, Inc. (collectively with its affiliates, Twitch or We) consisting of the website available at https://www.twitch.tv, and its network of websites, software applications, or any other products or services offered by Twitch (the Twitch Services). Other services offered by Twitch may be subject to separate terms.\n\nWhen using the Twitch Services, you will be subject to Twitchs Community Guidelines and additional guidelines or rules that are posted on the Twitch Services, made available to you, or disclosed to you in connection with specific services and features. Twitch may also offer certain paid services, which are subject to the Twitch Terms of Sale as well as any additional terms or conditions that are disclosed to you in connection with such services. All such terms and guidelines (the \"Guidelines\") are incorporated into these Terms of Service by reference.\n\nThe Terms of Service apply whether you are a user that registers an account with the Twitch Services or an unregistered user. You agree that by clicking Sign Up or otherwise registering, downloading, accessing, or using the Twitch Services, you are entering into a legally binding agreement between you and Twitch regarding your use of the Twitch Services. You acknowledge that you have read, understood, and agree to be bound by these Terms of Service. If you do not agree to these Terms of Service, do not access or otherwise use any of the Twitch Services.\n\nWhen using Twitch or opening an account with Twitch on behalf of a company, entity, or organization (collectively, Subscribing Organization), you represent and warrant that you: (i) are an authorized representative of that Subscribing Organization with the authority to bind that organization to these Terms of Service and grant the licenses set forth herein; and (ii) agree to these Terms of Service on behalf of such Subscribing Organization.\n\n2. Use of Twitch by Minors and Blocked Persons\nThe Twitch Services are not available to persons under the age of 13. If you are between the ages of 13 and the age of legal majority in your jurisdiction of residence, you may only use the Twitch Services under the supervision of a parent or legal guardian who agrees to be bound by these Terms of Service.\n\nThe Twitch Services are also not available to any users previously removed from the Twitch Services by Twitch or to any persons barred from receiving them under the laws of the United States (such as its export and re-export restrictions and regulations) or applicable laws in any other jurisdiction.\n\nBY DOWNLOADING, INSTALLING, OR OTHERWISE USING THE TWITCH SERVICES, YOU REPRESENT THAT YOU ARE AT LEAST 13 YEARS OF AGE, THAT YOUR PARENT OR LEGAL GUARDIAN AGREES TO BE BOUND BY THESE TERMS OF SERVICE IF YOU ARE BETWEEN 13 AND THE AGE OF LEGAL MAJORITY IN YOUR JURISDICTION OF RESIDENCE, AND THAT YOU HAVE NOT BEEN PREVIOUSLY REMOVED FROM AND ARE NOT PROHIBITED FROM RECEIVING THE TWITCH SERVICES.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "هل يكفي توفر رخصة المحاماة للترافع عن الشخصية المعنوية للمنشأة؟",
+    "answer": "لا، لا تكفي رخصة المحاماة وإنما يحتاج إلى وكالة من الممثل النظامي للمنشأة بصلاحية تمثيل المنشأة أمام المحاكم الشرعية، بشرط أن لا يتبقى على نهاية الوكالة المرفقة أقل من سنة.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى إنهائية لولاية ورعاية وحضانة يتيم أو ذوي احتياجات خاصة؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (إنهاءات) ثم اختيار التصنيف الفرعي (الولايات) ثم اختيار نوع الدعوى (ولاية ورعاية وحضانة يتيم أو ذوي احتياجات خاصة).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل من الممكن فسخ وكالة تم إصدارها عن طريق الخطأ؟",
+    "answer": "يمكنك فسخ الوكالة عبر بوابة ناجز، ولا يمكن حذفها نهائيًا من النظام الإلكتروني.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Can I use the timeline for promoting my business?",
+    "answer": "No",
+    "context": "We provide these services to you and others to help advance our mission. In exchange, we need you to make the following commitments:\n\n1. Who can use Facebook\n\nWhen people stand behind their opinions and actions, our community is safer and more accountable. For this reason, you must:\nUse the same name that you use in everyday life.\nProvide accurate information about yourself.\nCreate only one account (your own) and use your timeline for personal purposes.\nNot share your password, give access to your Facebook account to others, or transfer your account to anyone else (without our permission).\n\nWe try to make Facebook broadly available to everyone, but you cannot use Facebook if:\nYou are under 13 years old (or the minimum legal age in your country to use our Products).\nYou are a convicted sex offender.\nWe've previously disabled your account for violations of our Terms or Policies.\nYou are prohibited from receiving our products, services, or software under applicable laws.\n\n2. What you can share and do on Facebook\n\nWe want people to use Facebook to express themselves and to share content that is important to them, but not at the expense of the safety and well-being of others or the integrity of our community. You therefore agree not to engage in the conduct described below (or to facilitate or support others in doing so):\n1. You may not use our Products to do or share anything:\nThat violates these Terms, our Community Standards, and other terms and policies that apply to your use of Facebook.\nThat is unlawful, misleading, discriminatory or fraudulent.\nThat infringes or violates someone else's rights, including their intellectual property rights.\n2. You may not upload viruses or malicious code or do anything that could disable, overburden, or impair the proper working or appearance of our Products.\n3. You may not access or collect data from our Products using automated means (without our prior permission) or attempt to access data you do not have permission to access.\n\nWe can remove or restrict access to content that is in violation of these provisions.\n\nIf we remove content that you have shared in violation of our Community Standards, well let you know and explain any options you have to request another review, unless you seriously or repeatedly violate these Terms or if doing so may expose us or others to legal liability; harm our community of users; compromise or interfere with the integrity or operation of any of our services, systems or Products; where we are restricted due to technical limitations; or where we are prohibited from doing so for legal reasons.\n\nTo help support our community, we encourage you to report content or conduct that you believe violates your rights (including intellectual property rights) or our terms and policies.\n\nWe also can remove or restrict access to your content, services or information if we determine that doing so is reasonably necessary to avoid or mitigate adverse legal or regulatory impacts to Facebook.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "هل يستطيع المتدرب أن يجمع بين خبرة التدريب وخبرة العمل في القطاع الخاص كممثل نظامي أو القطاع الحكومي للحصول على رخصة المحاماة؟",
+    "answer": "يمكنه بعد إيقاف التدريب العمل بالقطاع الخاص والحصول على ترخيص الممثل النظامي ويحتسب مدة عمله بالقطاع الخاص أو الحكومي في وظيفة ذات طبيعية قانونية خبرة لازمة للحصول على الرخصة بعد استيفاء باقي الشروط المنصوص عليها.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هو الفرق بين الممثل النظامي لمنشأة ومن يحمل رخصة تمثيل نظامي؟",
+    "answer": "الممثل النظامي للمنشأة هو المنصوص عليه في عقد التأسيس، وأما من يحمل الترخيص الصادر من الإدارة العامة للمحاماة المسمى (ترخيص ترافع عن الشخصية المعنوية الخاصة) فهو في حكم الممثل النظامي في حق الترافع فقط ولديه وكالة من الممثل النظامي المنصوص في عقد التأسيس.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هو سبب عدم ظهور الرسوم بأنها مسددة بعد السداد بالملف الشخصي في منصة مركز التدريب العدلي؟",
+    "answer": "يمكن للمتدرب معرفة حالة الفاتورة من خلال حسابه بالضغط على خيار (الحساب) من القائمة المنسدلة عند الضغط على اسم المتدرب في أعلى الصفحة يسار وستظهر جميع الفواتير المصدرة للمتدرب.وتكون حالة الفاتورة (تم السداد) عند اكتمال السداد بنجاح. وتكون حالتها (لم يتم السداد) عند عدم اكتمال الدفع أو انتهاء صلاحية الفاتورة قبل الدفع.وتكون حالتها (بانتظار السداد) في حال مازالت سارية.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل توجد مدة زمنية محددة لمراجعة واعتماد تقرير الخبير من قبل أطراف الدعوى؟",
+    "answer": "نعم، ٥ أيام، وفي حال عدم الرفض أو القبول يقوم النظام بإرسال التقرير للقاضي للاعتماد النهائي.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يجوز توكيل الأجنبي للترافع في قضية عمالية؟",
+    "answer": "لا يحق للأجنبي الترافع داخل المملكة إلا عن نفسه، أو عن مصلحة له باعتباره مالكًا، أو شريكًا في شركة أو مؤسسة، أو عن زوجه أو أصهاره، أو الأشخاص ذوي القربى حتى الدرجة الرابعة، أو من كان عليه وصيُا أو قيمًا وفقًا لقرار مجلس الوزراء رقم (30) بتاريخ 09/02/1420 هـ.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يوجد فيديو توضيحي خاص بالتقديم على رخصة المحاماة وطلب انتقال محامي متدرب إلى آخر وغيرها من الخدمات الخاصة بالمحامي المتدرب؟",
+    "answer": "توجد جميع الخدمات وإيضاح الخطوات اللازمة لها في موقع الوزارة الإلكتروني بمسمى (خدمات الإدارة العامة للمحاماة).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي خطوات الاستعلام عن رهن أعيان؟",
+    "answer": "يمكن التحقق من رهن الأعيان من خلال اتباع التالي:تسجيل الدخول على ناجز أفراد بحساب النفاذ الوطنياختيار جميع الخدمات الإلكترونيةاختيار باقة (خدمات التحقق)الدخول إلى خدمة (التحقق من رهن أعيان)الضغط على أيقونة (تقديم طلب جديد)إدخال البيانات المطلوبة (رقم الوثيقة، تاريخ إصدارها)الضغط على أيقونة (تحقق)",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يحق لطالب التنفيذ في الزيارات الداخلية بمركز شمل مغادرة المركز برفقة المحضون على أن يعيده في الوقت المحدد لانتهاء الزيارة؟",
+    "answer": "يجب التقيد بمضمون القرار القضائي الصادر بذلك.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "will my data be sold to advertisers?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "how do i remove it?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "Does Shopify permit Shopify accountholders to create more than one staff account each?",
+    "answer": "Yes",
+    "context": "2. Account Activation\n2.1 Store Owner\n1. Subject to section 2.1(2), the person signing up for the Service by opening an Account will be the contracting party (Store Owner) for the purposes of our Terms of Service and will be the person who is authorized to use any corresponding Account we may provide to the Store Owner in connection with the Service. You are responsible for ensuring that the name of the Store Owner (including the legal name of the company that owns the Store, if applicable) is clearly visible on the Stores website.\n2. If you are signing up for the Services on behalf of your employer, your employer shall be the Store Owner. If you are signing up for the Services on behalf of your employer, then you must use your employer-issued email address and you represent and warrant that you have the authority to bind your employer to our Terms of Service.\n3. Your Shopify Store can only be associated with one Store Owner. A Store Owner may have multiple Shopify Stores. Store means the online store or physical retail location(s) associated with the Account.\n\n2.2 Staff Accounts\n1. Based on your Shopify pricing plan, you can create one or more staff accounts (Staff Accounts) allowing other people to access the Account. With Staff Accounts, the Store Owner can set permissions and let other people work in their Account while determining the level of access by Staff Accounts to specific business information (for example, you can limit Staff Account access to sales information on the Reports page or prevent Staff Accounts from changing general store settings).\n2. The Store Owner is responsible and liable for the acts, omissions and defaults arising from use of Staff Accounts in the performance of obligations under these Terms of Service as if they were the Store Owners own acts, omissions or defaults.\n3. The Store Owner and the users under Staff Accounts are each referred to as a Shopify User.\n\n2.3 PayPal Express Checkout and Shopify Payments Accounts\n1. Upon completion of sign up for the Service, Shopify will create a PayPal Express Checkout account on your behalf, using your email address. Depending on your location, Shopify may also create a Shopify Payments account on your behalf.\n2. You acknowledge that PayPal Express Checkout and/or Shopify Payments will be your default payments gateway(s) and that it is your sole responsibility as the Store Owner to activate and maintain these accounts. If you do not wish to keep either of the payment accounts active, it is your responsibility to deactivate them. For the avoidance of doubt, PayPal Express Checkout is a Third Party Service, as defined in Section 17 of these Terms of Service.\n\n2.4 Apple Pay for Safari Account\n1. Upon completion of sign up for the Service, Shopify will create an Apple Pay for Safari (Apple Pay) account on your behalf, using the URL(s) and business name associated with your Account. Depending on your location, Shopify may activate your Apple Pay account on your behalf, otherwise you will be required to activate your Apple Pay account within your Account admin. If you do not wish to keep your Apple Pay account active, it is your responsibility to deactivate it. For the avoidance of doubt, Apple Pay is a Third Party Service, as defined in Section 17 of these Terms of Service.\n2. If you use an Apple Pay supported payment gateway and your customers have enabled Apple Pay on their device, customers may purchase goods and services from your Store using Apple Pay.\n3. By using Apple Pay on your Store, you are agreeing to be bound by the Apple Pay Platform Web Merchant Terms and Conditions, as they may be amended by Apple from time to time. If Apple amends the Apple Pay Platform Web Merchant Terms and Conditions, the amended and restated version will be posted here: https://www.shopify.com/legal/apple-pay. Such amendments to the Apple Pay Platform Web Merchant Terms are effective as of the date of posting. Your continued use of Apple Pay on your Store after the amended Apple Pay Platform Web Merchant Terms are posted constitutes your agreement to, and acceptance of, the amended Apple Pay Platform Web Merchant Terms. If you do not agree to any changes to the Apple Pay Platform Web Merchant Terms, de-activate your Apple Pay account and do not continue to use Apple Pay on your Store.\n\n2.5 Google Payment\n1. Upon completion of sign up for the Service, if you have been enrolled in Shopify Payments, Shopify will also create a Google Payment account on your behalf. If you do not wish to keep your Google Payment account active, it is your responsibility to deactivate it. For the avoidance of doubt, Google Payment is a Third Party Service, as defined in Section 17 of these Terms of Service.\n2. If you use a Google Payment supported payment gateway and your customers have enabled Google Payment, customers may purchase goods and services from your Store using Google Payment.\n3. By using Google Payment on your Store, you are agreeing to be bound by the Google Payment API Terms of Service, as they may be amended by Google from time to time. If Google amends the Google Payment API Terms of Service, the amended and restated version will be posted here: https://payments.developers.google.com/terms/sellertos. Such amendments to the Google Payment API Terms of Service are effective as of the date of posting. Your continued use of Google Payment on your Store after the amended Google Payment API Terms of Service are posted constitutes your agreement to, and acceptance of, the amended Google Payment API Terms of Service. If you do not agree to any changes to the Google Payment API Terms of Service, de-activate your Google Payment account and do not continue to use Google Payment on your Store.\n\n2.6 Domain Names\n1. Upon purchasing a domain name through Shopify, domain registration will be preset to automatically renew each year so long as your Shopify Account remains active. You acknowledge that it is your sole responsibility to deactivate the auto-renewal function should you choose to do so.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "Is Youtube authorized to carry out updates to its software without requiring the permission of users?",
+    "answer": "Yes",
+    "context": "Downloadable Software\nWhen the Service requires or includes downloadable software (such as the YouTube Studio application), you give permission for that software to update automatically on your device once a new version or feature is available, subject to your device settings. Unless that software is governed by additional terms which provide a license, YouTube gives you a personal, worldwide, royalty-free, non-assignable and non-exclusive license to use the software provided to you by YouTube as part of the Service. This license is for the sole purpose of enabling you to use and enjoy the benefit of the Service as provided by YouTube, in the manner permitted by this Agreement. You are not allowed to copy, modify, distribute, sell, or lease any part of the software, or to reverse-engineer or attempt to extract the source code of that software, unless laws prohibit these restrictions or you have YouTubes written permission.\n\nOpen Source\nSome software used in our Service may be offered under an open source license that we make available to you. There may be provisions in an open source license that expressly override some of these terms, so please be sure to read those licenses.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "كيف يمكن للشاهد حضور الجلسة؟",
+    "answer": "في حال وجود شهود في الجلسات يقوم المدعي أو المدعى عليه بإرسال رابط الجلسة لهم أو حضورهم معه للمحكمة في حال كانت الجلسة حضورية دون الحاجة لحجز موعد للشهود.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "كيف يتم تحديد نوع المنشأة عند تقديم طلب تفعيل حساب ناجز أعمال؟",
+    "answer": "معرفة نوع المنشأة التجارية يتم من خلال الاطلاع على سجلها التجاري الصادر من وزارة التجارة ثم يتم اختيار النوع المناسب من القائمة المنسدلة عند تفعيل حساب الأعمال.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Does Amazon take responsibility for items sold by third parties through Amazon?",
+    "answer": "No",
+    "context": "APP PERMISSIONS\nWhen you use apps created by Amazon, such as the Amazon App or Kindle App, you may grant certain permissions to us for your device. Most mobile devices provide you with information about these permissions. To learn more about these permissions, click here .\n\nSANCTIONS AND EXPORT POLICY\nYou may not use any Amazon Service if you are the subject of U.S. sanctions or of sanctions consistent with U.S. law imposed by the governments of the country where you are using Amazon Services. You must comply with all U.S. or other export and re-export restrictions that may apply to goods, software (including Amazon Software), technology, and services.\n\nOTHER BUSINESSES\nParties other than Amazon operate stores, provide services or software, or sell product lines through the Amazon Services. In addition, we provide links to the sites of affiliated companies and certain other businesses. If you purchase any of the products or services offered by these businesses or individuals, you are purchasing directly from those third parties, not from Amazon. We are not responsible for examining or evaluating, and we do not warrant, the offerings of any of these businesses or individuals (including the content of their Web sites). Amazon does not assume any responsibility or liability for the actions, product, and content of all these and any other third parties. You should carefully review their privacy statements and other conditions of use.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى إنهائية لفسخ الولاية لموت الولي؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (إنهاءات) ثم اختيار التصنيف الفرعي (الولايات) ثم اختيار نوع الدعوى (فسخ الولاية لموت الولي).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "كم يبلغ المقابل المالي لكل فصل تدريبي في برنامج تأهيل المحامين في مركز التدريب العدلي؟",
+    "answer": "يبلغ المقابل المالي لكل فصل تدريبي ٣٥٠٠ ريال",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "are you obtaining information about my family?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى مكافحة الغش التجاري في المحكمة التجارية؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (تجاري) ثم اختيار التصنيف الفرعي (الأنظمة التجارية) ثم اختيار نوع الدعوى (مكافحة الغش التجاري).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Does the clause discuss breach of contract?",
+    "answer": "Yes",
+    "context": "",
+    "task_type": "contract_qa_test_translated_final"
+  },
+  {
+    "question": "من هي الفئات المستفيدة من البورصة العقاري؟",
+    "answer": "تقدم البورصة العقارية خدماتها لجميع المستفيدين الحاليين من الخدمات العقارية المقدمة من وزارة العدل سواء كانوا أفراد أم جهات اعتبارية.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هو المقصود بخدمة حساب المواريث؟",
+    "answer": "هي خدمة تتيح للوارث حساب نسبته ومقدار حصته من الميراث الشرعي مع توضيح موجز لحالة كل وارث ونصيبه الشرعي.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يمكن إضافة ممثل نظامي في القضية المنتهية؟",
+    "answer": "نعم ، بإمكان أطراف الدعوى إضافة ممثل نظامي.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "does it need location services while not using it?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "will any of my information be sold?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "what information are they collecting?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "هل يتوقف الصرف من صندوق النفقة في حال سفر المدعى عليه خارج المملكة؟",
+    "answer": "نعم، يقوم الصندوق بإيقاف الصرف في حال مغادرة المحكوم عليه بدفع النفقة خارج المملكة العربية السعودية.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي الخدمات التي يمكن الاستفادة منها للتبليغ والإخطار؟",
+    "answer": "الإخطار بمطالبة مالية، وإمكانية تعدد وسائل التبليغ.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Are moderators of subreddits entitled to payment or other compensation for the services they provide?",
+    "answer": "No",
+    "context": "7. Moderators\nModerating a subreddit is an unofficial, voluntary position that may be available to users of the Services. We are not responsible for actions taken by the moderators. We reserve the right to revoke or limit a users ability to moderate at any time and for any reason or no reason, including for a breach of these Terms.\n\nIf you choose to moderate a subreddit:\nYou agree to follow the Moderator Guidelines for Healthy Communities;\nYou agree that when you receive reports related to a subreddit you moderate, you will take appropriate action, which may include removing content that violates policy and/or promptly escalating to Reddit for review;\nYou are not, and may not represent that you are, authorized to act on behalf of Reddit;\nYou may not enter into any agreement with a third party on behalf of Reddit, or any subreddits that you moderate, without our written approval;\nYou may not perform moderation actions in return for any form of compensation, consideration, gift, or favor from third parties;\nIf you have access to non-public information as a result of moderating a subreddit, you will use such information only in connection with your performance as a moderator; and\nYou may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the Content Policy, or the Moderator Guidelines for Healthy Communities.\n\nReddit reserves the right, but has no obligation, to overturn any action or decision of a moderator if Reddit, in its sole discretion, believes that such action or decision is not in the interest of Reddit or the Reddit community.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "ما هي خطوات التحقق من حالة ترخيص صادر من وزارة العدل؟",
+    "answer": "يمكن التحقق من حالة التراخيص الصادرة من وزارة العدل من خلال اتباع الخطوات التالية:تسجيل الدخول في ناجز أفراد بحساب النفاذ الوطنياختيار جميع الخدمات الإلكترونيةاختيار باقة (خدمات التحقق)الدخول إلى خدمة التحقق من ترخيص عدليالضغط على أيقونة تقديم طلب جديدإدخال البيانات المطلوبة (نوع الترخيص، رقم الترخيص)الضغط على أيقونة (تحقق)",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Can users retract rights they give to CNN for content they created?",
+    "answer": "No",
+    "context": "(D) License to User Content. By submitting User Content to the Site, you automatically grant CNN and its parent company, Turner Broadcasting, System, Inc., the royalty-free, perpetual, irrevocable, non-exclusive right and license, but not the obligation, to use, publish, reproduce, modify, adapt, edit, translate, create derivative works from, incorporate into other works, distribute, sub-license and otherwise exploit such User Content (in whole or in part) worldwide in any form, media or technology now known or hereafter developed for the full term of any copyright that may exist in such User Content, without payment to you or to any third parties. Notwithstanding the foregoing, in the event CNN licenses your iReport as stand-alone content outside of CNN's programming to third parties unaffiliated with CNN, CNN will pay you a percentage of the license fees it actually receives according to rates determined by CNN's licensing division, ImageSource. You agree and acknowledge that any iReport you submit may be entered into the annual iReport Awards. You represent and warrant to CNN that you have the full legal right, power and authority to grant to CNN the license provided for herein, that you own or control the complete exhibition and other rights to the User Content you submitted for the purposes contemplated in this license and that neither the User Content nor the exercise of the rights granted herein shall violate these Terms of Use, or infringe upon any rights, including the right of privacy or right of publicity, constitute a libel or slander against, or violate any common law or any other right of, or cause injury to, any person or entity. You further grant CNN the right, but not the obligation, to pursue at law any person or entity that violates your or CNN's rights in the User Content by a breach of these Terms of Use.\n(E) Moral Rights. If it is determined that you retain moral rights (including rights of attribution or integrity) in the User Content, you hereby declare that (a) you do not require that any personally identifying information be used in connection with the User Content, or any derivative works of or upgrades or updates thereto; (b) you have no objection to the publication, use, modification, deletion and exploitation of the User Content by CNN or its licensees, successors and assigns; (c) you forever waive and agree not to claim or assert any entitlement to any and all moral rights of an author in any of the User Content; and (d) you forever release CNN, and its licensees, successors and assigns, from any claims that you could otherwise assert against CNN by virtue of any such moral rights. You also permit any other user to access, view, store or reproduce the User Content for that user's personal use.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "هل يسمح للممارس الصحي الأجنبي بالسفر في حال وجود دعوى ضده؟",
+    "answer": "يؤجل سفر الممارس الصحي الأجنبي أثناء الإجراءات التي تسبق رفع الدعوى",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Are certain users entitled to refuse to be subject to the arbitration agreement?",
+    "answer": "Yes",
+    "context": "1. Prohibition of Class and Representative Actions and Non-Individualized Relief\nYOU AND EBAY AGREE THAT EACH OF US MAY BRING CLAIMS AGAINST THE OTHER ONLY ON AN INDIVIDUAL BASIS AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, OR REPRESENTATIVE OR PRIVATE ATTORNEY GENERAL ACTION OR PROCEEDING. UNLESS BOTH YOU AND EBAY AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE OR JOIN MORE THAN ONE PERSON'S OR PARTY'S CLAIMS, AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A CONSOLIDATED, REPRESENTATIVE, CLASS, OR PRIVATE ATTORNEY GENERAL ACTION OR PROCEEDING. ALSO, THE ARBITRATOR MAY AWARD RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE RELIEF NECESSITATED BY THAT PARTY'S INDIVIDUAL CLAIM(S). ANY RELIEF AWARDED CANNOT AFFECT OTHER USERS. If a court decides that applicable law precludes enforcement of any of this paragraph's limitations as to a particular claim or a particular request for a remedy (such as a request for injunctive relief), then that claim or that remedy request (and only that claim or that remedy request) must be severed from the arbitration and may be brought in court, subject to your and eBay's right to appeal the court's decision. All other claims will be arbitrated.\n\n2. Arbitration Procedures\nArbitration is more informal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, and court review of an arbitration award is very limited. However, an arbitrator can award the same damages and relief on an individualized basis that a court can award to an individual. An arbitrator should apply the terms of the User Agreement as a court would. All issues are for the arbitrator to decide, except that issues relating to arbitrability, the scope or enforceability of this Agreement to Arbitrate, or the interpretation of Section 1 of this Agreement to Arbitrate (\"Prohibition of Class and Representative Actions and Non-Individualized Relief\"), shall be for a court of competent jurisdiction to decide.\n\nThe arbitration will be conducted by the American Arbitration Association (\"AAA\") under its rules and procedures, including the AAA's Consumer Arbitration Rules and the AAAs Commercial Arbitration Rules (as applicable), as modified by this Agreement to Arbitrate. The AAA's rules are available at www.adr.org. In the event that the AAA is unavailable to administer the arbitration, another administrator will be selected by the parties or the court.\n\nA party who intends to seek arbitration must first send to the other, by certified mail, a valid Notice of Dispute (\"Notice\"), which may be downloaded at this link. The Notice to eBay must be sent to eBay Inc., Attn: Litigation Department, Re: Notice of Dispute, 583 W. eBay Way, Draper, UT 84020. eBay will send any Notice to you to the physical address we have on file associated with your eBay account; it is your responsibility to keep your physical address up to date. To be valid, you must personally sign the Notice and complete all information on the Notice form, including a description of the nature and basis of the claims you are asserting, the specific relief sought, and the email address and phone number associated with your account.\n\nIf you and eBay are unable to resolve the claims described in a valid Notice within 30 days after eBay receives that Notice, you or eBay may initiate arbitration proceedings. A form for initiating arbitration proceedings is available on the AAA's site at www.adr.org. In addition to filing this form with the AAA in accordance with its rules and procedures, the party initiating the arbitration must mail a copy of the completed form to the opposing party. You may send a copy to eBay at the following address: eBay, Inc. c/o CT Corporation System, 1108 E South Union Ave., Midvale, UT 84047. In the event eBay initiates an arbitration against you, it will send a copy of the completed form to the physical address we have on file associated with your eBay account. Any settlement offer made by you or eBay shall not be disclosed to the arbitrator.\n\nThe arbitration hearing shall be held in the county in which you reside or at another mutually agreed location. Where no disclosed claims or counterclaims exceed $25,000, the dispute shall be resolved by the submission of documents only, subject to the arbitrator's discretion to require an in-person hearing, if the circumstances warrant. In cases where an in-person hearing is held, you and/or eBay may attend by telephone, unless the arbitrator requires otherwise.\n\nThe arbitrator will decide the substance of all claims in accordance with applicable law, including recognized principles of equity, and will honor all claims of privilege recognized by law. The arbitrator shall not be bound by rulings in prior arbitrations involving different users, but is bound by rulings in prior arbitrations involving the same eBay user to the extent required by applicable law. The arbitrator's award shall be final and binding and judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction thereof.\n\n3. Costs of Arbitration\nPayment of all filing, administration and arbitrator fees will be governed by the AAA's rules, unless otherwise stated in this Agreement to Arbitrate. If you complied with the Notice of Dispute procedures of Section 2 of this Agreement (\"Arbitration Procedures\") and the value of the relief sought is $10,000 or less, at your request, eBay will pay all administration and arbitrator fees associated with the arbitration. Any request for payment of fees by eBay should be submitted by mail to the AAA along with your Demand for Arbitration and eBay will make arrangements to pay administration and arbitrator fees directly to the AAA. In the event the arbitrator determines the claim(s) you assert in the arbitration to be frivolous, you agree to reimburse eBay for all fees associated with the arbitration paid by eBay on your behalf that you otherwise would be obligated to pay under the AAA's rules.\n\n4. Severability\nWith the exception of any of the provisions in Section 1 of this Agreement to Arbitrate (\"Prohibition of Class and Representative Actions and Non-Individualized Relief\"), if an arbitrator or court decides that any part of this Agreement to Arbitrate is invalid or unenforceable, the other parts of this Agreement to Arbitrate shall still apply.\n\n5. Opt-Out Procedure\nIF YOU ARE A NEW USER OF OUR SERVICES, YOU CAN CHOOSE TO REJECT THIS AGREEMENT TO ARBITRATE (\"OPT-OUT\") BY MAILING US A WRITTEN OPT-OUT NOTICE (\"OPT-OUT NOTICE\"). THE OPT-OUT NOTICE MUST BE POSTMARKED NO LATER THAN 30 DAYS AFTER THE DATE YOU ACCEPT THE USER AGREEMENT FOR THE FIRST TIME. YOU MUST MAIL THE OPT-OUT NOTICE TO EBAY INC., ATTN: LITIGATION DEPARTMENT, RE: OPT-OUT NOTICE, 583 WEST EBAY WAY, DRAPER, UT 84020.\n\nFor your convenience, we are providing an Opt-Out Notice form. You must complete and mail that to us in order to opt out of the Agreement to Arbitrate. You must complete the Opt-Out Notice form by providing the information called for in the form, including your name, address (including street address, city, state and zip code), and the user ID(s) and email address(es) associated with the eBay Service account(s) to which the opt-out applies. You must sign the Opt-Out Notice for it to be effective. This procedure is the only way you can opt out of the Agreement to Arbitrate. If you opt out of the Agreement to Arbitrate, all other parts of this User Agreement and its Legal Disputes Section will continue to apply to you. Opting out of this Agreement to Arbitrate has no effect on any previous, other, or future arbitration agreements that you may have with us.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "هل يلزم تقديم طلب صلح من خلال منصة تراضي قبل رفع صحيفة دعوى في المحكمة التجارية؟",
+    "answer": "يجب اللجوء إلى المصالحة والوساطة قبل قيد أي من الدعاوى الآتية :  أ - الدعاوى المنصوص عليها في الفقرة (٣) من المادة السادسة عشرة من النظام ب - الدعاوى المنصوص عليها في الفقرة (١) من المادة الحادية عشرة من اللائحة ج - الدعاوى التي يكون أطرافها زوجين، أو تربطهم صلة قرابة إلى الدرجة الرابعة د - الدعاوى المتعلقة بالعقود التي تتضمن الاتفاق - كتابةً - على اللجوء إلى المصالحة والوساطة والتسوية الودية قبل اللجوء إلى القضاء",
+    "context": "يجب اللجوء إلى المصالحة والوساطة قبل قيد أي من الدعاوى الآتية:  أ - الدعاوى المنصوص عليها في الفقرة (٣) من المادة السادسة عشرة من النظام.  ب - الدعاوى المنصوص عليها في الفقرة (١) من المادة الحادية عشرة من اللائحة.  ج - الدعاوى التي يكون أطرافها زوجين، أو تربطهم صلة قرابة إلى الدرجة الرابعة.  د - الدعاوى المتعلقة بالعقود التي تتضمن الاتفاق - كتابةً - على اللجوء إلى المصالحة والوساطة والتسوية الودية قبل اللجوء إلى القضاء.",
+    "task_type": "najiz_qa_v2"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى الإبراء بعد صدور السند التنفيذي في محكمة التنفيذ؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (تنفيذ) ثم اختيار التصنيف الفرعي (منازعات غير شكلية) ثم اختيار نوع الدعوى (الإبراء بعد صدور السند التنفيذي).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى وقف الأعمال الجديدة في المحكمة العامة؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (عامة) ثم اختيار التصنيف الفرعي (الدعاوى المستعجلة) ثم اختيار نوع الدعوى (وقف الأعمال الجديدة).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يوجد مدة محددة لبقاء طلب إنشاء عقد الزواج متاحًا بعد استكمال مصادقة أطراف العقد وقبل مصادقة المأذون على الطلب؟",
+    "answer": "نعم، مدة بقاء الطلب متاح للاعتماد من قبل المأذون بعد استكمال مصادقة جميع الأطراف هي عشرة أيام.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "will my performance ratings be available for everyone to see?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "ما هي مراحل سير الدعاوى ضد المرافق الصحية؟",
+    "answer": "١- تقدم الشكوى إلى المرفق الصحي الذي وقع فيه الخطأ أو الشؤون الصحية ذات العلاقة التابع لها المنشأة التي وقعت فيها المخالفة أو الخطأ الطبي.٢- تنظر لجنة من الخبراء المختصين في الشكوى لإبداء الرأي الطبي.٣- تعرض اللجنة التسوية الودية على الأطراف المتخاصمة.٤- عند تعذر التسوية تحال الشكوى إلكترونيًا للقضاء وتنظر عن بعد.٥- صدور الحكم.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يتم إشعار المدعي بموعد الجلسة من قبل المحكمة في حال حولت الدعاوى الجنائية من النيابة العامة إلى المحكمة الجزائية؟ وهل يجوز فتح الجلسة والحكم دون حضور المدعي والاكتفاء بحضور النيابة العامة؟",
+    "answer": "إذا كانت القضية في الحق العام فلا يلزم حضور المدعي بالحق الخاص ولا يلزم تبليغه بموعد الجلسة.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ماهي خطوات الاستفادة من خدمة فسخ وكالة عبر كتابة العدل الافتراضية ؟",
+    "answer": "يمكن التعرف على خطوات الاستفادة من خدمة فسخ وكالة عبر كتابة العدل الافتراضية من خلال مشاهدة الفيديو التوضيحي التالي: اضغط هنا",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي خطوات الاستفادة من خدمة إضافة ممثل؟",
+    "answer": "يمكن التعرف على خطوات الاستفادة من خدمة إضافة ممثل من خلال مشاهدة الفيديو التوضيحي التالي: اضغط هنا",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يجوز الحكم بالشبهة؟",
+    "answer": "لا يجوز توقيع عقوبة جزائية على أي شخص إلا بعد ثبوت إدانته بأمر محظور شرعًا أو نظامًا بعد محاكمة تجرى وفقًا للمقتضى الشرعي بناءً على المادة (٣) من نظام الإجراءات الجزائية.",
+    "context": "لا يجوز توقيع عقوبة جزائية على أي شخص، إلا بعد ثبوت إدانته بأمر محظور شرعًا أو نظامًا بعد محاكمة تُجْرى وفقًا للمقتضى الشرعي.",
+    "task_type": "najiz_qa_v2"
+  },
+  {
+    "question": "Will this agreement be governed by Texas law in the case of persons residing in Texas?",
+    "answer": "No",
+    "context": "Choice of Law. These Terms and the relationship between the parties, including any claim or dispute that might arise between the parties, whether sounding in contract, tort, or otherwise, will be governed by the laws of the State of New York without regard to its conflict of law provisions. In no event will the parties bring claims against one another under the laws of another jurisdiction.\n\nForum. If for any reason a Dispute proceeds in court rather than through arbitration, all such Disputes (regardless of theory) arising out of or relating to these Terms, or the relationship between you and us, will be brought exclusively in the courts located in the county of New York, New York or the U.S. District Court for the Southern District of New York. In such cases, you and we agree to submit to the personal jurisdiction of the courts located within the county of New York, New York or the Southern District of New York, and agree to waive any and all objections to the exercise of jurisdiction over the parties by such courts and to venue in such courts.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "Does Instructure have the right to perform backups of user data without requesting user permission?",
+    "answer": "No",
+    "context": "Instructure, Inc.s (and its affiliate(s)) (referenced herein as Instructure) Acceptable Use Policy rules and guidelines (referenced herein collectively as the AUP GUIDELINES) cover and govern each individual end users (referenced herein with you or with your) use and access to Instructures services and websites (referenced herein as the SERVICE). Instructures Privacy Policy explains how or whether Instructure (referenced herein with we our and us) collects and uses your personally identifiable information. BY USING OUR SERVICE, YOURE AGREEING TO USE THE SERVICE IN ACCORDANCE WITH THESE AUP GUIDELINES, AND TO REVIEW INSTRUCTURES PRIVACY POLICY. PLEASE ALSO NOTE THAT THESE AUP GUIDELINES AND THE PRIVACY POLICY ARE SUBJECT TO CHANGE. PLEASE REVIEW THE APPLICABLE CURRENT VERSIONS HERE AND HERE https://www.instructure.com/policies/privacy AND https://www.instructure.com/policies/acceptable-use. IF YOU DO NOT AGREE TO BE BOUND BY THESE AUP GUIDELINES OR DISAGREE WITH THE PERSONALLY IDENTIFIABLE INFORMATION COLLECTION AND USE PRACTICES, YOU SHOULD AND MAY NOT ACCESS OR USE THE SERVICE.\n\nLICENSE GRANT\nThese AUP Guidelines provide to you a personal, revocable, limited, non-exclusive, and non-transferable license to use the Service conditioned upon your continued compliance with these AUP Guidelines. Instructure reserves all rights not granted in the AUP Guidelines.\n\nYOUR CONTENT & YOUR PERMISSIONS\nWhen you use our Service, you provide us with things like your files, content, messages, etc. (Your Content). Your Content is yours. You represent that you have all necessary right, power, and authority to use the Service and share Your Content and will comply with all applicable laws when doing so. These AUP Guidelines dont give us any rights to Your Content except for the limited rights that enable us to offer the Service. We need your permission to do things like host Your Content, back it up, or share it when you ask us to. This permission extends to our trusted third parties we work with. You therefore give us, and third parties (with whom we work) permission to use, display, host, share, and back up Your Content. By submitting Your Content, you also permit us to identify you by your username and as the contributor of Your Content.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "Is Youtube exempt from explaining the rationale for removal of content in circumstances in which Youtube is of the opinion that such removal mitigates legal risks to which it would otherwise be exposed?",
+    "answer": "Yes",
+    "context": "Uploading Content\nIf you have a YouTube channel, you may be able to upload Content to the Service. You may use your Content to promote your business or artistic enterprise. If you choose to upload Content, you must not submit to the Service any Content that does not comply with this Agreement (including the YouTube Community Guidelines) or the law. For example, the Content you submit must not include third-party intellectual property (such as copyrighted material) unless you have permission from that party or are otherwise legally entitled to do so. You are legally responsible for the Content you submit to the Service. We may use automated systems that analyze your Content to help detect infringement and abuse, such as spam, malware, and illegal content.\n\nRights you Grant\nYou retain ownership rights in your Content. However, we do require you to grant certain rights to YouTube and other users of the Service, as described below.\n\nLicense to YouTube\nBy providing Content to the Service, you grant to YouTube a worldwide, non-exclusive, royalty-free, sublicensable and transferable license to use that Content (including to reproduce, distribute, prepare derivative works, display and perform it) in connection with the Service and YouTubes (and its successors' and Affiliates') business, including for the purpose of promoting and redistributing part or all of the Service.\n\nLicense to Other Users\nYou also grant each other user of the Service a worldwide, non-exclusive, royalty-free license to access your Content through the Service, and to use that Content, including to reproduce, distribute, prepare derivative works, display, and perform it, only as enabled by a feature of the Service (such as video playback or embeds). For clarity, this license does not grant any rights or permissions for a user to make use of your Content independent of the Service.\n\nDuration of License\nThe licenses granted by you continue for a commercially reasonable period of time after you remove or delete your Content from the Service. You understand and agree, however, that YouTube may retain, but not display, distribute, or perform, server copies of your videos that have been removed or deleted. \n\nRemoving Your Content\nYou may remove your Content from the Service at any time. You also have the option to make a copy of your Content before removing it. You must remove your Content if you no longer have the rights required by these terms.\n\nRemoval of Content By YouTube\nIf we reasonably believe that any Content is in breach of this Agreement or may cause harm to YouTube, our users, or third parties, we may remove or take down that Content in our discretion. We will notify you with the reason for our action unless we reasonably believe that to do so: (a) would breach the law or the direction of a legal enforcement authority or would otherwise risk legal liability for YouTube or our Affiliates; (b) would compromise an investigation or the integrity or operation of the Service; or (c) would cause harm to any user, other third party, YouTube or our Affiliates. You can learn more about reporting and enforcement, including how to appeal on the Troubleshooting page of our Help Center.\n\nCopyright Protection\nWe provide information to help copyright holders manage their intellectual property online in our YouTube Copyright Center. If you believe your copyright has been infringed on the Service, please send us a notice.\nWe respond to notices of alleged copyright infringement according to the process in our YouTube Copyright Center, where you can also find information about how to resolve a copyright strike. YouTube's policies provide for the termination, in appropriate circumstances, of repeat infringers access to the Service.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "Does Disney allow for the return of all physical products within 30 days of when such product was purchased?",
+    "answer": "No",
+    "context": "G. Right of Cancellation; Return of Goods. You may have the right to cancel an order placed for a Disney Product  depending on the nature of the Disney Product. Please read the following information carefully so you understand your right of cancellation.\n\nIf you wish to cancel, you must do so by following the cancellation instructions for the particular Disney Product. A sample cancellation form is available here.\n\ni. Cancelling Subscriptions: Please see the information above on the process for cancelling subscriptions in our Subscriptions section, above.\n\nii. Digital Content: When you purchase a license to access digital content or virtual items, you will be given an opportunity to consent to delivery at the time of purchase. By consenting to delivery, you acknowledge that you have lost the right to cancel. License purchase fees paid for digital content are non-refundable.\n\niii. Physical Goods: You have the right, within thirty (30) days from the date of your receipt of physical goods, to cancel our contract with you and return the goods. This right does not apply to goods stated by us on the Disney Products to be non-returnable, including but not limited to:\nAny products with a seal, where the seal is broken, such as audio and video recordings, computer software, and CDs, DVDs or other physical media that have been supplied in sealed packaging; and\nPersonalized items.\n\niv. Personalized Goods: We reserve the right to refuse personalized orders at our discretion. Inappropriate use of our personalization service will cause your order to be cancelled and any payment refunded.\n\nThese cancellation rights are separate from and in addition to your rights should any item we supply be faulty.\n\nIf you are returning goods that are not faulty, you may be required to pay for the cost of returning the goods to us and we may deduct a reasonable amount if you used the goods.\n\nH. Pricing; Taxes. We may revise the pricing for the Disney Products we offer. When you place your order, we estimate the applicable tax and include that estimate in the total for your convenience. Except to the extent required under applicable tax laws, the actual tax amount that will be applied to your order and charged to your payment method is based on calculations on the date of shipment, regardless of when the order was placed.\n\nI. International Shipping; Customs. When ordering goods for delivery to countries other than the country where the seller is located, you may have to pay import duties and taxes levied. These and any additional charges for customs clearance must be borne by you. For goods shipped internationally, please note that any manufacturer warranty may not be valid; manufacturer service options may not be available; manuals, instructions and safety warnings may not be in destination country languages; the goods and accompanying materials may not be designed in accordance with destination country standards, specifications, and labeling requirements; and the goods may not conform to destination country voltage (requiring use of an adapter or converter). You are responsible for assuring the goods can be lawfully imported to the destination country. When ordering from us, the recipient is the importer of record and must comply with all laws and regulations of the destination country.\n\nJ. Gift Cards. Disney gift cards may be offered for purchase and/or redemption in connection with certain Disney Products, subject to additional terms of service. The risk of loss and title for gift cards passes to you at the time of electronic transmission or delivery to the carrier. Gift cards may be redeemed at eligible locations and for eligible products and services. Please review the gift card FAQs for more information.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "how will my data be stored",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "ماهي المتطلبات والمستندات التي يتطلب توفيرها للتقدم لخدمة توثيق الإستحقاق لتمويل الزواج؟",
+    "answer": "وجود وكالة سارية في حال كان مقدم الطلب وكيلاً عقد الزواج.نموذج إثبات عدم دخول بالزوجة",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "متى يمكن طلب ندب خبير؟",
+    "answer": "للمحكمة -من تلقاء نفسها أو بناءً على طلب أحد الخصوم- أن تقرر ندب خبير أو أكثر؛ لإبداء رأيه في المسائل الفنية التي يستلزمها الفصل في الدعوى، وفقًا للمادة (١١٠) من نظام الإثبات.",
+    "context": "للمحكمة -من تلقاء نفسها أو بناء على طلب أحد الخصوم- أن تقرر ندب خبير أو أكثر؛ لإبداء رأيه في المسائل الفنية التي يستلزمها الفصل في الدعوى.  يراعى في اختيار الخبير تناسب معارفه الفنية وخبراته مع موضوع النزاع.  إذا اتفق الخصوم على اختيار خبير أو أكثر أقرت المحكمة اتفاقهم.",
+    "task_type": "najiz_qa_v2"
+  },
+  {
+    "question": "ما معنى حكم مكتسب القطعية؟",
+    "answer": "الأحكام المكتسبة للقطعية هي الأحكام النهائية؛ وتكون مكتسبة للقطعية ٕإما بعدم الاعتراض عليها خلال المدة المحددة نظامًا، أو بتأييد الحكم من المحكمة العليا أو صدوره منها مع عدم الإخلال بأحكام الرفع للمحكمة العليا وجوبيًا.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Are other users allowed to use content I uploaded to Youtube outside of Youtube?",
+    "answer": "No",
+    "context": "Uploading Content\nIf you have a YouTube channel, you may be able to upload Content to the Service. You may use your Content to promote your business or artistic enterprise. If you choose to upload Content, you must not submit to the Service any Content that does not comply with this Agreement (including the YouTube Community Guidelines) or the law. For example, the Content you submit must not include third-party intellectual property (such as copyrighted material) unless you have permission from that party or are otherwise legally entitled to do so. You are legally responsible for the Content you submit to the Service. We may use automated systems that analyze your Content to help detect infringement and abuse, such as spam, malware, and illegal content.\n\nRights you Grant\nYou retain ownership rights in your Content. However, we do require you to grant certain rights to YouTube and other users of the Service, as described below.\n\nLicense to YouTube\nBy providing Content to the Service, you grant to YouTube a worldwide, non-exclusive, royalty-free, sublicensable and transferable license to use that Content (including to reproduce, distribute, prepare derivative works, display and perform it) in connection with the Service and YouTubes (and its successors' and Affiliates') business, including for the purpose of promoting and redistributing part or all of the Service.\n\nLicense to Other Users\nYou also grant each other user of the Service a worldwide, non-exclusive, royalty-free license to access your Content through the Service, and to use that Content, including to reproduce, distribute, prepare derivative works, display, and perform it, only as enabled by a feature of the Service (such as video playback or embeds). For clarity, this license does not grant any rights or permissions for a user to make use of your Content independent of the Service.\n\nDuration of License\nThe licenses granted by you continue for a commercially reasonable period of time after you remove or delete your Content from the Service. You understand and agree, however, that YouTube may retain, but not display, distribute, or perform, server copies of your videos that have been removed or deleted. \n\nRemoving Your Content\nYou may remove your Content from the Service at any time. You also have the option to make a copy of your Content before removing it. You must remove your Content if you no longer have the rights required by these terms.\n\nRemoval of Content By YouTube\nIf we reasonably believe that any Content is in breach of this Agreement or may cause harm to YouTube, our users, or third parties, we may remove or take down that Content in our discretion. We will notify you with the reason for our action unless we reasonably believe that to do so: (a) would breach the law or the direction of a legal enforcement authority or would otherwise risk legal liability for YouTube or our Affiliates; (b) would compromise an investigation or the integrity or operation of the Service; or (c) would cause harm to any user, other third party, YouTube or our Affiliates. You can learn more about reporting and enforcement, including how to appeal on the Troubleshooting page of our Help Center.\n\nCopyright Protection\nWe provide information to help copyright holders manage their intellectual property online in our YouTube Copyright Center. If you believe your copyright has been infringed on the Service, please send us a notice.\nWe respond to notices of alleged copyright infringement according to the process in our YouTube Copyright Center, where you can also find information about how to resolve a copyright strike. YouTube's policies provide for the termination, in appropriate circumstances, of repeat infringers access to the Service.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى إيقاف التنفيذ في المحكمة العمالية؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (عمالية) ثم اختيار التصنيف الفرعي (الطلبات العارضة والعاجلة) ثم اختيار نوع الدعوى (إيقاف التنفيذ).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يتم اللقاء بالطرف الآخر أثناء التسليم والاستلام في مركز شمل؟",
+    "answer": "لا، لا يلزم من تنفيذ الحكم الالتقاء بالطرف الآخر داخل المركز.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Other than in the case of certain exceptions, does Facebook agree to inform a user with regard to the removal of such users content?",
+    "answer": "Yes",
+    "context": "We provide these services to you and others to help advance our mission. In exchange, we need you to make the following commitments:\n\n1. Who can use Facebook\n\nWhen people stand behind their opinions and actions, our community is safer and more accountable. For this reason, you must:\nUse the same name that you use in everyday life.\nProvide accurate information about yourself.\nCreate only one account (your own) and use your timeline for personal purposes.\nNot share your password, give access to your Facebook account to others, or transfer your account to anyone else (without our permission).\n\nWe try to make Facebook broadly available to everyone, but you cannot use Facebook if:\nYou are under 13 years old (or the minimum legal age in your country to use our Products).\nYou are a convicted sex offender.\nWe've previously disabled your account for violations of our Terms or Policies.\nYou are prohibited from receiving our products, services, or software under applicable laws.\n\n2. What you can share and do on Facebook\n\nWe want people to use Facebook to express themselves and to share content that is important to them, but not at the expense of the safety and well-being of others or the integrity of our community. You therefore agree not to engage in the conduct described below (or to facilitate or support others in doing so):\n1. You may not use our Products to do or share anything:\nThat violates these Terms, our Community Standards, and other terms and policies that apply to your use of Facebook.\nThat is unlawful, misleading, discriminatory or fraudulent.\nThat infringes or violates someone else's rights, including their intellectual property rights.\n2. You may not upload viruses or malicious code or do anything that could disable, overburden, or impair the proper working or appearance of our Products.\n3. You may not access or collect data from our Products using automated means (without our prior permission) or attempt to access data you do not have permission to access.\n\nWe can remove or restrict access to content that is in violation of these provisions.\n\nIf we remove content that you have shared in violation of our Community Standards, well let you know and explain any options you have to request another review, unless you seriously or repeatedly violate these Terms or if doing so may expose us or others to legal liability; harm our community of users; compromise or interfere with the integrity or operation of any of our services, systems or Products; where we are restricted due to technical limitations; or where we are prohibited from doing so for legal reasons.\n\nTo help support our community, we encourage you to report content or conduct that you believe violates your rights (including intellectual property rights) or our terms and policies.\n\nWe also can remove or restrict access to your content, services or information if we determine that doing so is reasonably necessary to avoid or mitigate adverse legal or regulatory impacts to Facebook.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "how does fiverr ensure payments from customers are secure?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "هل يتم مطالبة المستفيد بسداد مبلغ صندوق النفقة في حال أن المنفق لم يسدد للصندوق بعد انتهاء مدة الصرف؟",
+    "answer": "يتم سداد مبلغ النفقة من المنفق المحكوم عليه بالصك، ويتم سدادها من المستفيدة في حال تم تقديم بيانات غير صحيحة أو إخفاء معلومات كتغير حال المستفيدين أو المنفق أو استلام النفقة من المنفق في فترة صرف النفقة من الصندوق.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "According to the terms, if Im unhappy with Apples website is there anything I can do other than stop using the website?",
+    "answer": "No",
+    "context": "Disclaimers\nAPPLE DOES NOT PROMISE THAT THE SITE OR ANY CONTENT, SERVICE OR FEATURE OF THE SITE WILL BE ERROR-FREE OR UNINTERRUPTED, OR THAT ANY DEFECTS WILL BE CORRECTED, OR THAT YOUR USE OF THE SITE WILL PROVIDE SPECIFIC RESULTS. THE SITE AND ITS CONTENT ARE DELIVERED ON AN \"AS-IS\" AND \"AS-AVAILABLE\" BASIS. ALL INFORMATION PROVIDED ON THE SITE IS SUBJECT TO CHANGE WITHOUT NOTICE. APPLE CANNOT ENSURE THAT ANY FILES OR OTHER DATA YOU DOWNLOAD FROM THE SITE WILL BE FREE OF VIRUSES OR CONTAMINATION OR DESTRUCTIVE FEATURES. APPLE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTIES OF ACCURACY, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. APPLE DISCLAIMS ANY AND ALL LIABILITY FOR THE ACTS, OMISSIONS AND CONDUCT OF ANY THIRD PARTIES IN CONNECTION WITH OR RELATED TO YOUR USE OF THE SITE AND/OR ANY APPLE SERVICES. YOU ASSUME TOTAL RESPONSIBILITY FOR YOUR USE OF THE SITE AND ANY LINKED SITES. YOUR SOLE REMEDY AGAINST APPLE FOR DISSATISFACTION WITH THE SITE OR ANY CONTENT IS TO STOP USING THE SITE OR ANY SUCH CONTENT. THIS LIMITATION OF RELIEF IS A PART OF THE BARGAIN BETWEEN THE PARTIES.\n\nThe above disclaimer applies to any damages, liability or injuries caused by any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communication line failure, theft or destruction of or unauthorized access to, alteration of, or use, whether for breach of contract, tort, negligence or any other cause of action.\n\nApple reserves the right to do any of the following, at any time, without notice: (1) to modify, suspend or terminate operation of or access to the Site, or any portion of the Site, for any reason; (2) to modify or change the Site, or any portion of the Site, and any applicable policies or terms; and (3) to interrupt the operation of the Site, or any portion of the Site, as necessary to perform routine or non-routine maintenance, error correction, or other changes.\n\nLimitation of Liability\nExcept where prohibited by law, in no event will Apple be liable to you for any indirect, consequential, exemplary, incidental or punitive damages, including lost profits, even if Apple has been advised of the possibility of such damages.\n\nIf, notwithstanding the other provisions of these Terms of Use, Apple is found to be liable to you for any damage or loss which arises out of or is in any way connected with your use of the Site or any Content, Apples liability shall in no event exceed the greater of (1) the total of any subscription or similar fees with respect to any service or feature of or on the Site paid in the six months prior to the date of the initial claim made against Apple (but not including the purchase price for any Apple hardware or software products or any AppleCare or similar support program), or (2) US$100.00. Some jurisdictions do not allow limitations of liability, so the foregoing limitation may not apply to you.\n\nIndemnity\nYou agree to indemnify and hold Apple, its officers, directors, shareholders, predecessors, successors in interest, employees, agents, subsidiaries and affiliates, harmless from any demands, loss, liability, claims or expenses (including attorneys fees), made against Apple by any third party due to or arising out of or in connection with your use of the Site.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "من يتحمل التكاليف القضائية لطلب التنفيذ؟",
+    "answer": "يتحمل المنفذ ضده التكاليف القضائية لطلب التنفيذ، ما لم يثبت أن طالب التنفيذ غير مستحق لمطالبته، فيتحمل طالب التنفيذ كامل التكاليف القضائية، وإن كان طالب التنفيذ غير مستحق لجزء من مطالبته، فيتحمل من التكاليف بقدر هذا الجزء.",
+    "context": "تُقدّر التكاليف القضائية لطلب التنفيذ المباشر بمبلغ قدره خمسمائة ريال، وفيما يتعلق بباقي طلبات التنفيذ، فتقدر التكاليف القضائية بنسبة اثنين في المائة (2%) من قيمة المطالبة على ألا تقل هذه التكاليف عن خمسمائة ريال ولا تزيد على عشرة آلاف ريال.  ويتحمل المنفذ ضده التكاليف القضائية لطلب التنفيذ ما لم يثبت أن طالب التنفيذ غير مستحق لمطالبته، فيتحمل طالب التنفيذ كامل التكاليف القضائية، وإذا كان طالب التنفيذ غير مستحق لجزء من مطالبته، فيتحمل من التكاليف القضائية بقدر هذا الجزء.",
+    "task_type": "najiz_qa_v2"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى بدل في المحكمة العمالية؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (عمالية) ثم اختيار التصنيف الفرعي (حقوق مالية) ثم اختيار نوع الدعوى (بدل).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "كيف يتم احتساب التكاليف القضائية إذا انتهت الدعوى بالصلح؟",
+    "answer": "يتحمل أطراف الدعوى التكاليف القضائية بالتساوي، مالم يتفق على غير ذلك.",
+    "context": "1.يتحمل المحكوم عليه قيمة التكاليف القضائية المقررة للدعوى والطلبات المتصلة بها أو قسطاً منها، ما لم ينص النظام أو اللائحة على غير ذلك، وذلك دون إخلال بحق ذوي الشأن في المطالبة بالتعويض. وفي حال كان المدعي غير محق في جزء من طلباته، فيتحمل قسط ذلك الجزء.  2.إذا انتهت الدعوى بالصلح فيتحمل أطراف الدعوى التكاليف القضائية بالتساوي، ما لم يتفقوا على غير ذلك.",
+    "task_type": "najiz_qa_v2"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى اعتراض على قرار المنشأة الإداري في المحكمة العمالية؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (عمالية) ثم اختيار التصنيف الفرعي (اعتراض على قرارات) ثم اختيار نوع الدعوى (دعوى اعتراض على قرار المنشأة الإداري).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يلتزم الصندوق بدعم قيمة الزيادة للمستفيد في حال تم الحكم للمستفيد بزيادة قيمة النفقة؟",
+    "answer": "بما أن المستفيد كان يحصل على النفقة من المُنفق مباشرة، فإن الزيادة يتولى دفعها المنفذ ضده، ولا يتولى الصندوق دفع الزيادة للمستفيد في هذه الحالة كون المستفيد يحصل فعليًا على النفقة ويطلب زيادة القيمة.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Does streaming Twitch Sings require me to install a special app (in addition to the ordinary Twitch app)?",
+    "answer": "No",
+    "context": "Twitch Sings (Twitch Sings), which is part of the Twitch Services, is a free-to-play singing game and streamer tool. It allows anyone to sing rights-cleared music privately or live on their personal Twitch channel, and to create and share VODs with users of Twitch and other users of Twitch Sings. All game activity can be streamed to Twitch without any additional software.\n\nSing a song start to finish, perform a duet, or go live within a concert setting to hundreds of cheering fans.  Bonus: if you use the Twitch Sings feature that allows you to live stream your performance to Twitch, emotes from chat will rise from the audience, while follows, cheers and subscription notices are highlighted with alerts and in-concert effects.\n\nBefore you stage dive on top of screaming fans, several guidelines:\nSing the song lyrics as displayed in the app or, when song lyrics are not displayed, to the best of your knowledge;\nAvoid altering the fundamental character of any song included in Twitch Sings; and\nBehave (in rock parlance: dont trash the hotel room).  Conduct yourself in accordance with the Community Guidelines and these Terms of Service.\n\nTo make available musical works from a variety of artists within Twitch Sings (from rock to pop), Twitch negotiated licenses with many different rights holders and continues to do so in order to add new musical tracks.  The licenses granted to Twitch allow Twitch to use the works, and offer them to you for use, solely in connection with Twitch Sings and the Twitch Services. Twitch Sings content has not been cleared for use outside the Twitch Services. What this means is that, in your new rock-n-roll lifestyle, do not:\nmake unauthorized use of the copyrighted elements of a Twitch Sings song (including the use of the story of a song in another creative work);\nassert copyright ownership of the songs (or any arrangements of the songs) provided in Twitch Sings; or\nuse your performance from Twitch Sings outside the Twitch Services, with the exception that you can use the YouTube exporter tool offered on Twitch.  However, you may not exercise any rights to claim or monetize any exported content, or block, dispute, interfere with, or suppress any attempts by a music rights holder (such as a music publisher who controls the song you recorded) to claim or monetize the exported content.\n\nDoing any of the above may subject you to a notice of alleged infringement from rights holders and their agents. \n\nLast, we want to alert you to the fact that music rights tend to evolve over time.  Thus, we reserve the right to modify or remove certain songs or other content from Twitch Sings at any time (for example, as necessary to comply with our music licenses or with applicable laws). This may mean that Twitch will be required to take down previously recorded performances. Twitch takes no responsibility and assumes no liability in connection with your use of Twitch Sings.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "هل يمكن تنفيذ زيارة أبناء لدى مركز شمل بموجب صك حكم فقط دون التقدم بطلب تنفيذ؟",
+    "answer": "لا، لا يمكن لطالب التنفيذ التوجه لمركز شمل مصطحبًا صك الحكم فقط، ولابد من أن يتقدم بطلب تنفيذ ثم يطلب من قاضي التنفيذ إصدار خطاب إحالة إلى مركز شمل.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "متى يتم تكليف الخبير بإعداد تقرير الخبرة؟",
+    "answer": "بعد سداد رسوم أتعاب الخبير من قبل طرف الدعوى، يتم إرسال خطاب تكليف إلى جهة الخبرة للبدء بإعداد التقرير.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "is it gathering information on me when the app is not active?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "can more than one person use my account?",
+    "answer": "Irrelevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "ما هي طريقة تغيير رقم الهاتف الجوال المضاف في بوابة صندوق النفقة؟",
+    "answer": "يجب أن يكون رقم التواصل هو الرقم المسجل في مركز المعلومات الوطني والذي يتم استخدامه في منصة (أبشر)، وفي حال تعديل الرقم في منصة أبشر فسينعكس ذلك آليًا على منصة صندوق النفقة.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "does it access areas of my phone that it shouldn't?",
+    "answer": "Irrelevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "will my fitness coach share my information with others?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "Is this a Force Majeure clause?",
+    "answer": "Yes",
+    "context": "",
+    "task_type": "contract_qa_test_translated_final"
+  },
+  {
+    "question": "ما هي خطوات التحقق من صحة الوكالة ؟",
+    "answer": "يمكن التحقق من صحة الوكالة من خلال اتباع التالي:تسجيل الدخول في ناجز أفراد بحساب النفاذ الوطنياختيار جميع الخدمات الإلكترونية اختيار باقة (خدمات التحقق)الدخول إلى خدمة (التحقق من وكالة)الضغط على أيقونة (تقديم طلب جديد)إدخال البيانات المطلوبة (رقم الوثيقة، رقم هوية أحد الأطراف)الضغط على أيقونة (تحقق)",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "If my main credit card doesnt work, can Amazon charge another card registered with my Amazon account?",
+    "answer": "Yes",
+    "context": "YOUR ACCOUNT\nYou may need your own Amazon account to use certain Amazon Services, and you may be required to be logged in to the account and have a valid payment method associated with it. If there is a problem charging your selected payment method, we may charge any other valid payment method associated with your account. Visit https://www.amazon.com/cpe/managepaymentmethods?ref_=ya_d_c_pmt_mpo& to manage your payment options. You are responsible for maintaining the confidentiality of your account and password and for restricting access to your account, and you agree to accept responsibility for all activities that occur under your account or password. Amazon does sell products for children, but it sells them to adults, who can purchase with a credit card or other permitted payment method. If you are under 18, you may use the Amazon Services only with involvement of a parent or guardian. Parents and guardians may create profiles for teenagers in their Amazon Household. Alcohol listings on Amazon are intended for adults. You must be at least 21 years of age to purchase alcohol, or use any site functionality related to alcohol. Amazon reserves the right to refuse service, terminate accounts, terminate your rights to use Amazon Services, remove or edit content, or cancel orders in its sole discretion.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "ما الفرق بين خدمة (الإقرار باستلام مبلغ مالي) المقدمة عبر كتابة العدل الافتراضية، وخدمة (الإقرار باستلام مبلغ مالي) المدرجة تحت باقة الوكالات والإقرارات عبر بوابة ناجز؟",
+    "answer": "يتم التقدم بطلب توثيق الإقرار باستلام مبلغ مالي عبر كتابة العدل الافتراضية في حال كان مقدم الإقرار من أصحاب الصفة الاعتباريةيتم التقدم بطلب توثيق الإقرار باستلام مبلغ مالي من خلال خدمات الإقرارات عبر بوابة ناجز في حال كان مقدم الإقرار من الأفراد",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Am I allowed to sell my Instagram account to an entertainment company?",
+    "answer": "No",
+    "context": "Who Can Use Instagram. We want our Service to be as open and inclusive as possible, but we also want it to be safe, secure, and in accordance with the law. So, we need you to commit to a few restrictions in order to be part of the Instagram community.\nYou must be at least 13 years old or the minimum legal age in your country to use Instagram.\nYou must not be prohibited from receiving any aspect of our Service under applicable laws or engaging in payments related Services if you are on an applicable denied party listing.\nWe must not have previously disabled your account for violation of law or any of our policies.\nYou must not be a convicted sex offender.\n\nHow You Can't Use Instagram. Providing a safe and open Service for a broad community requires that we all do our part.\nYou can't impersonate others or provide inaccurate information.\nYou don't have to disclose your identity on Instagram, but you must provide us with accurate and up to date information (including registration information). Also, you may not impersonate someone you aren't, and you can't create an account for someone else unless you have their express permission.\nYou can't do anything unlawful, misleading, or fraudulent or for an illegal or unauthorized purpose.\nYou can't violate (or help or encourage others to violate) these Terms or our policies, including in particular the Instagram Community Guidelines, Instagram Platform Policy, and Music Guidelines. Learn how to report conduct or content in our Help Center.\nYou can't do anything to interfere with or impair the intended operation of the Service.\nYou can't attempt to create accounts or access or collect information in unauthorized ways.\nThis includes creating accounts or collecting information in an automated way without our express permission.\nYou can't attempt to buy, sell, or transfer any aspect of your account (including your username) or solicit, collect, or use login credentials or badges of other users.\nYou can't post private or confidential information or do anything that violates someone else's rights, including intellectual property.\nLearn more, including how to report content that you think infringes your intellectual property rights, here.\nYou can't use a domain name or URL in your username without our prior written consent.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "Do some Netflix special offers have different terms?",
+    "answer": "Yes",
+    "context": "1. Membership\n\n1.1. Your Netflix membership will continue until terminated. To use the Netflix service you must have Internet access and a Netflix ready device, and provide us with one or more Payment Methods. Payment Method means a current, valid, accepted method of payment, as may be updated from time to time, and which may include payment through your account with a third party. Unless you cancel your membership before your billing date, you authorize us to charge the membership fee for the next billing cycle to your Payment Method (see \"Cancellation\" below).\n\n1.2. We may offer a number of membership plans, including special promotional plans or memberships offered by third parties in conjunction with the provision of their own products and services. We are not responsible for the products and services provided by such third parties. Some membership plans may have differing conditions and limitations, which will be disclosed at your sign-up or in other communications made available to you. You can find specific details regarding your Netflix membership by visiting our website and clicking on the \"Account\" link available at the top of the pages of the Netflix website under your profile name.\n\n2. Free Trials\n\n2.1. Your Netflix membership may start with a free trial. The duration of the free trial period of your membership will be specified during sign-up and is intended to allow new members and certain former members to try the service.\n\n2.2. Free trial eligibility is determined by Netflix at its sole discretion and we may limit eligibility or duration to prevent free trial abuse. We reserve the right to revoke the free trial and put your account on hold in the event that we determine that you are not eligible. Members of households with an existing or recent Netflix membership are not eligible. We may use information such as device ID, method of payment or an account email address used with an existing or recent Netflix membership to determine eligibility. For combinations with other offers, restrictions may apply.\n\n2.3. We will charge the membership fee for the next billing cycle to your Payment Method at the end of the free trial period unless you cancel your membership prior to the end of the free trial period. To view the membership price and end date of your free trial period, visit our website and click the \"Billing details\" link on the \"Account\" page.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "هل بالإمكان إصدار وكالة إذا كان السجل التجاري غير ساري؟",
+    "answer": "لا، لا يمكن إصدار وكالة في حال كان السجل التجاري غير ساري.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى تواطؤ أثناء المزاد أو التأثير على سعر المزاد في محكمة التنفيذ؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (تنفيذ) ثم اختيار التصنيف الفرعي (منازعات غير شكلية) ثم اختيار نوع الدعوى (تواطؤ أثناء المزاد أو التأثير على سعر المزاد).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Are there some changes to the terms that Instructure might not let me know about?",
+    "answer": "Yes",
+    "context": "CONTROLLING LAW\t\nThese AUP Guidelines and your use of the Service will be interpreted, governed and construed by the laws of Delaware law except for its conflicts of laws principles, unless otherwise agreed in a separate written agreement with Instructure or as required by a mandatory law of a competent jurisdiction.\n\nENTIRE AGREEMENT\nThese AUP Guidelines set forth terms governing your use of the Service, and supersede and replace any other prior or contemporaneous agreements applicable to the subject matter of these AUP Guidelines. These AUP Guidelines create no third-party beneficiary rights. These AUP Guidelines shall inure to the benefit of Instructure and its respective legal representatives, successors, and assigns.\n\nWAIVER, SEVERABILITY & ASSIGNMENT\nInstructures failure to enforce a provision is not a waiver of its right to do so later. You may not assign any of your rights under these AUP Guidelines, and any such attempt will be void. Instructure may assign its rights to any of its affiliates or subsidiaries, or to any successor in interest of any business associated with the Service. If any provision of these AUP Guidelines is held by a court of competent jurisdiction to be contrary to law, such provision shall be changed and interpreted so as to best accomplish the objectives of the original provision to the fullest extent allowed by law and the remaining provisions of these AUP Guidelines will remain in full force and effect.\n\nMODIFICATIONS\nWe may revise these AUP Guidelines from time to time, and will always post the most current version HERE. If a revision meaningfully reduces your rights, we will provide notice to you (by, for example, sending a message to the email address associated with your account). By continuing to use or access the Service after the revisions come into effect, you agree to be bound by and subject to the revised AUP Guidelines.\n\nNOTICES\nFor any notices relating to these AUP Guidelines, you may contact Instructure by sending an email to legal@instructure.com.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "هل يكون الطلب مشمولًا بنظام التكاليف عند تغيير التصنيف في حال تم رفع دعوى قبل سريان نظام التكاليف القضائية وبعد سريانه تمت إفادة المستفيد بتغيير التصنيف الفرعي للدعوى؟",
+    "answer": "لا يوجد تكاليف عند تغيير تصنيف الدعوى، أي قبل قيد الدعوى وإحالتها.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هو المقصود بعبارة (إدخال بيانات الممثل في أطراف الدعوى وإضافته كممثل عن المدعي)؟",
+    "answer": "المقصود هو إضافة الممثل بإدخاله بنوع (ممثل) عن المدعي من قائمة الممثلين في أطراف الدعوى، ولا يتم إضافة الممثل كمدعي \"إن لم يكن طرف في الدعوى\".",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Is the family member who pays for a familys Netflix account meant to not share the account password with anyone else?",
+    "answer": "Yes",
+    "context": "5. Passwords and Account Access. The member who created the Netflix account and whose Payment Method is charged (the \"Account Owner\") has access and control over the Netflix account and the Netflix ready devices that are used to access our service and is responsible for any activity that occurs through the Netflix account. To maintain control over the account and to prevent anyone from accessing the account (which would include information on viewing history for the account), the Account Owner should maintain control over the Netflix ready devices that are used to access the service and not reveal the password or details of the Payment Method associated with the account to anyone. You are responsible for updating and maintaining the accuracy of the information you provide to us relating to your account. We can terminate your account or place your account on hold in order to protect you, Netflix or our partners from identity theft or other fraudulent activity.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "Does Verizon agree to provide customer support for its services?",
+    "answer": "No",
+    "context": "Fee-Based Services and Billing. Unless otherwise specified in the additional terms that apply to the Services you are using, the terms in this Section 11 apply to you.\n\nWe offer products and subscriptions for a fee (fee-based Services). These fee-based Services are governed by the additional terms you agree to when you register for the fee-based Service and these Terms. If you register for a fee-based Service, you must designate a payment method and provide us with accurate billing and payment information and you have the continuing obligation to keep it up to date. Many fee-based Services require you to have, or register for, a Yahoo, AOL or other Verizon Media ID. If you are an AOL Dial-Up customer, please see additional terms by clicking here.\n\nThe following important provisions apply to all of our fee-based services:\n\nThird-Party products. If the fee-based Service includes a third-party product, you understand and agree that your purchase and use of the Service is also subject to the third partys terms of service and privacy policy, which you should read thoroughly before agreeing to them.\n\nPayments. You represent that you are at least the minimum age required to enter into a legal agreement. You agree to pay us for any fee-based Services you purchase from us, as well as all other charges incurred under your account, including applicable taxes and fees. You are responsible for all charges incurred under your account, including purchases made by you or anyone you allow to use your account or any sub-or linked accounts (including any person with implied, actual, or apparent authority) or anyone who gains access to your account as a result of your failure to safeguard your authentication credentials.\n\nPayment Methods. You authorize and direct us to charge your designated payment method for these charges or, if it fails, to charge any other payment method you have on file with us, even if we received it in association with other fee-based services. You are responsible for all charges even if your payment method fails or is denied. You authorize and direct us to retain all information about any payment method(s) associated with your account. We may import payment information you entered during a prior purchase and provide you the option to use that payment information during purchase of a new product. You permit us to obtain and use updated information from the issuer of your payment method in accordance with the policies and procedures of any applicable card brands. We may in some instances continue charging a payment method past its expiration date at our discretion and subject to the payment processors' or issuing bank's approval. Surcharges may apply if you use certain payment methods, such as payment from your checking or savings account.\n\nPayment Terms. We may charge for fee-based Services in advance and on a daily, monthly, yearly, lump sum, or other basis in accordance with the stated terms, as long as your subscription remains active, even if you have not downloaded or used the Service or accessed your online account.\n\nAuto-Renewal. We use auto-renewal for many of our fee-based Services. At the expiration of each subscription term for such fee-based Services, we will automatically renew your subscription and charge the credit card or other payment method you have provided to us, unless you cancel your subscription at least 48 hours before the end of the current period. Unless otherwise stated in Section 14, your subscription will be automatically renewed at the then-current price, excluding promotional and discount pricing. We may, in our sole discretion, post charges to your payment method individually or aggregate charges for some or all of your fee-based Services with us.\n\nFraud Protection. We may take steps to verify the validity of the credit card information you provide to us, including debiting amounts less than $1.00 from your credit card and then immediately crediting it back. You authorize us to do so for verification and anti-fraud purposes.\n\nFree Trials. We may offer you free trials, so that you may try a fee-based Service subscription without charge or obligation (\"Free Trial\"). Unless otherwise stated and unless you cancel your subscription prior to the expiration of the Free Trial, periodic subscription fees will be charged at the then-applicable rate upon expiration of the Free Trial period and will continue to be charged until the subscription is canceled. If you are not satisfied with a particular fee-based Service, you must cancel the subscription before the Free Trial ends to avoid charges. We reserve the right to limit you to one free trial or promotion of a fee-based Service and to prohibit the combining of free trials or other promotional offers.\n\nNo Refunds. All charges are nonrefundable unless provided otherwise in the terms you agree to when you register for a fee-based Service, unless stated differently for your country in Section 14 or as otherwise specified below.\n\nTermination. We, in our sole discretion, may change, discontinue or terminate any or all aspects of a fee-based Service without notice, including access to support services, content and other products or services ancillary to the fee-based Service, subject to providing an appropriate refund for any portions of a specified but no longer available term. You may cancel a fee-based Service at any time by logging into your online account and terminating the subscription.\n\nChange in Fees and Billing Method. We may change our fees and billing methods at any time. We will provide you with notice of any price increase at least thirty (30) days in advance. Subject to applicable law, (i) if you disagree with any proposed change, your sole remedy is to cancel your fee-based Service before the price change takes effect and (ii) your continued use of or subscription to the Service after the price change takes effect constitutes your agreement to pay the new price for the Service.\n\nDelinquency. After 30 days from the date of any unpaid charges, your fee-based Service will be deemed delinquent and we may terminate or suspend your account and fee-based Service for nonpayment. You are liable for any fees, including attorney and collection fees, incurred by us in our efforts to collect any remaining balances from you.\n\n90-Day Notice Period. You must notify us about any billing problems or discrepancies within 90 days after they first appear on your billing method statement. If you do not bring them to our attention within 90 days, you agree that you waive your right to dispute such problems or discrepancies.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "هل توجد خدمة توضح كيفية تحديث بيانات مكتب محاماة؟",
+    "answer": "نعم, يمكنكم الدخول من خلال الرابط التالي، ثم اختيار خدمات الإدارة العامة للمحاماة https://www.moj.gov.sa/ar/Ministry/Departments/Mohammah/Pages/default.aspx",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى حراسة قضائية في المحكمة العامة؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (عامة) ثم اختيار التصنيف الفرعي (الدعاوى المستعجلة) ثم اختيار نوع الدعوى (حراسة قضائية).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Are there circumstances in which an Apple accountholder may incur liability due to another person accessing such account without authorization?",
+    "answer": "Yes",
+    "context": "Accounts, Passwords and Security\nCertain features or services offered on or through the Site may require you to open an account (including setting up an Apple ID and password). You are entirely responsible for maintaining the confidentiality of the information you hold for your account, including your password, and for any and all activity that occurs under your account as a result of your failing to keep this information secure and confidential. You agree to notify Apple immediately of any unauthorized use of your account or password, or any other breach of security. You may be held liable for losses incurred by Apple or any other user of or visitor to the Site due to someone else using your Apple ID, password or account as a result of your failing to keep your account information secure and confidential.\n\nYou may not use anyone elses Apple ID, password or account at any time without the express permission and consent of the holder of that Apple ID, password or account. Apple cannot and will not be liable for any loss or damage arising from your failure to comply with these obligations.\n\nPrivacy\nApples Privacy Policy applies to use of this Site, and its terms are made a part of these Terms of Use by this reference. To view Apples Privacy Policy, click here. Additionally, by using the Site, you acknowledge and agree that Internet transmissions are never completely private or secure. You understand that any message or information you send to the Site may be read or intercepted by others, even if there is a special notice that a particular transmission (for example, credit card information) is encrypted.\n\nLinks to Other Sites and to the Apple Site\nThis Site may contain links to other independent third-party Web sites (\"Linked Sites\"). These Linked Sites are provided solely as a convenience to our visitors. Such Linked Sites are not under Apples control, and Apple is not responsible for and does not endorse the content of such Linked Sites, including any information or materials contained on such Linked Sites. You will need to make your own independent judgment regarding your interaction with these Linked Sites.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "if it's free, does viber profit off its users in some way?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "Do the terms provide that the content shall not be used as legal or medical advice?",
+    "answer": "Yes",
+    "context": "2. Privacy Policy\nWe ask that you review the terms of our Privacy Policy, so that you are aware of how we collect and use your information. Because our services are used by people all over the world, personal information that we collect may be stored and processed in the United States of America or any other country in which we or our agents maintain facilities. By using our services, you consent to any such transfer of information outside your country.\n\n3. Content We Host\na. You may find some material objectionable or erroneous: Because we provide a wide array of content that is produced or gathered by fellow users, you may encounter material that you find offensive, erroneous, misleading, mislabeled, or otherwise objectionable. We therefore ask that you use common sense and proper judgment when using our services.\nb. Our content is for general informational purposes only: Although we host a great deal of information that pertains to professional topics, including medical, legal, or financial issues, this content is presented for general informational purposes only. It should not be taken as professional advice. Please seek independent professional counseling from someone who is licensed or qualified in the applicable area in lieu of acting on any information, opinion, or advice contained in one of the Project websites.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "ما هي الخطوات المتبعة لإصدار وكالة لشخص بنقل ملكية سيارة عن طريق بوابة ناجز؟",
+    "answer": "يمكن إصدار وكالة إلكترونية من خلال بوابة ناجز، وذلك باتباع الخطوات التالية:تسجيل الدخول في ناجز أفراد بحساب النفاذ الوطنياختيار جميع الخدمات الإلكترونيةاختيار باقة (الوكالات والإقرارات)الدخول إلى خدمة (إصدار وكالة فردية)الضغط على أيقونة (تقديم طلب جديد)إدخال البيانات المطلوبة (بيانات الموكل، بيانات الوكيل/الوكلاء)اختيار بنود الوكالةاختيار مدة الوكالةالضغط على أيقونة (اعتماد)إشعار المستفيد برسالة نصية بصدور الوكالة",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يمكن التوكيل في الهبة والتنازل؟",
+    "answer": "نعم، يمكن التوكيل في الهبة والتنازل.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يكفي توفر رخصة المحاماة لاستخدام خدمات التبليغ والإخطار؟",
+    "answer": "لا، لا تكفي رخصة المحاماة، وإنما يحتاج إلى وكالة من الممثل النظامي للمنشأة بصلاحية تمثيل المنشأة أمام المحاكم الشرعية، بشرط ألا يتبقى على نهاية الوكالة المرفقة أقل من سنة.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يمكن تعديل بنود الوكالة من قبل كاتب العدل أثناء إجراء الاتصال المرئي مع المستفيد؟",
+    "answer": "نعم، يقوم كاتب العدل بقراءة بنود الوكالة على المستفيد وله التأكيد على ما يريد التوكيل فيه من عدمه.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يمنح المنفذ ضده إذن السفر للخارج في حال حاجته للعلاج بعد تطبيق قرار (46)؟",
+    "answer": "نعم، للدائرة – عند الاقتضاء – الإذن للمدين بالسفر بعد منعه بضمان، أو كفيل غارم، أو إذا ثبت بتقرير طبي حاجته للعلاج خارج المملكة، وذلك وفقًا للمادة (2/46) من اللائحة التنفيذية لنظام التنفيذ.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي طريقة التقدم بطلب إعادة تفعيل القرارات بحق المنفذ ضده بعد انتهاء مدة الإمهال المتفق عليها ؟",
+    "answer": "يمكن التقدم بطلب إعادة تفعيل طلب التنفيذ بعد انتهاء مدة الإمهال من خلال اتباع الخطوات التالية: تسجيل الدخول إلى بوابة ناجز بحساب النفاذ الوطنياختيار جميع الخدمات الإلكترونيةاختيار باقة \"التنفيذ\"الدخول لخدمة \"طلب إعادة تفعيل طلب تنفيذ بعد انتهاء مدة الإمهال\"الضغط على أيقونة \"تقديم طلب جديد\"اختيار طلب التنفيذالنقر على \"طلبات إجراء أخرى\"اختيار \"طلب إعادة تفعيل طلب التنفيذ بعد انتهاء مدة الإمهال\"تحديد السببتحميل المرفقحفظ وإرساليتم الإشعار عند الاعتماد",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "هل يمكن الاعتراض على التكاليف القضائية؟",
+    "answer": "يجوز لمن وجبت عليه التكاليف الاعتراض على هذا التحديد خلال خمسة عشر يومًا من تاريخ تبليغه.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "Does Amazon promise that the price displayed for an item is the actual price of that item?",
+    "answer": "No",
+    "context": "INTELLECTUAL PROPERTY COMPLAINTS\nAmazon respects the intellectual property of others. If you believe that your intellectual property rights are being infringed, please follow our Notice and Procedure for Making Claims of Copyright Infringement.\n\nRISK OF LOSS\nAll purchases of physical items from Amazon are made pursuant to a shipment contract. This means that the risk of loss and title for such items pass to you upon our delivery to the carrier.\n\nRETURNS, REFUNDS AND TITLE\nAmazon does not take title to returned items until the item arrives at our fulfillment center. At our discretion, a refund may be issued without requiring a return. In this situation, Amazon does not take title to the refunded item. For more information about our returns and refunds, please see our Returns Center .\n\nPRODUCT DESCRIPTIONS\nAmazon attempts to be as accurate as possible. However, Amazon does not warrant that product descriptions or other content of any Amazon Service is accurate, complete, reliable, current, or error-free. If a product offered by Amazon itself is not as described, your sole remedy is to return it in unused condition.\n\nPRICING\n\"List Price\" means the suggested retail price of a product as provided by a manufacturer, supplier, or seller. We regularly check List Prices against prices recently found on Amazon and other retailers. Certain products may have a \"Was Price\" displayed, which is determined using recent price history of the product on Amazon.\nWith respect to items sold by Amazon, we cannot confirm the price of an item until you order. Despite our best efforts, a small number of the items in our catalog may be mispriced. If the correct price of an item sold by Amazon is higher than our stated price, we will, at our discretion, either contact you for instructions before shipping or cancel your order and notify you of such cancellation. Other merchants may follow different policies in the event of a mispriced item.\nWe generally do not charge your credit card until after your order has entered the shipping process or, for digital products, until we make the digital product available to you.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "هل يجوز أن يكون الابن معرفًا لوالدته ويكون وكيلها في نفس الوقت؟",
+    "answer": "لا، لا يمكن أن يكون مُعرّف ووكيل بنفس الوكالة.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "ما هي خطوات رفع صحيفة دعوى إنهائية للموافقة على الزواج المبكر في إنهاءات الأوقاف والمواريث في الأحساء والقطيف؟",
+    "answer": "الدخول لبوابة ناجز ثم تسجيل الدخول عبر النفاذ الوطني الموحد ثم اختيار القضاء ثم صحيفة الدعوى ثم طلب جديد ثم اختيار التصنيف الرئيسي (إنهاءات) ثم اختيار التصنيف الفرعي (إنهاءات الأوقاف والمواريث في الأحساء والقطيف) ثم اختيار نوع الدعوى (الموافقة على الزواج المبكر).",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "does this app sell customer information?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "هل يمكن استعادة رسوم التكاليف القضائية لطلب الالتماس بعد قبوله لدى الدائرة؟",
+    "answer": "لا، لا يمكن ذلك.",
+    "context": "",
+    "task_type": "najiz_faq"
+  },
+  {
+    "question": "are there interactions with other players and if so",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  },
+  {
+    "question": "Are users permitted to share racist content provided that such content is used in the context of educational activities relating to racism?",
+    "answer": "Yes",
+    "context": "SHARING YOUR CONTENT\nOur Service lets you share Your Content with others, so please think carefully about what you share. By using the Service, you agree to do so responsibly and to not misuse the Service or help anyone else do so. This includes, but is not limited to, not doing or trying to do any of the following in connection with the Service:\nstore, transmit or create libelous, obscene, deceptive, defamatory, pornographic, racist, sexual, hateful, unlawful, tortious or otherwise objectionable content (except as necessary for legitimate instructional purposes, but in all cases in compliance with applicable laws and regulations);\nmodify, translate, adapt, merge, make derivative works of, disassemble, decompile, reverse compile or reverse engineer any part of the Service except to the extent the foregoing restrictions are expressly prohibited by applicable law;\nharm, harass, threaten, or impersonate any person or violate the rights of any third party;\nprobe, scan, or test the vulnerability of any system or network;\ninterfere with or disrupt the integrity or performance of the Service;\nattempt to gain unauthorized access to the Service or its related systems or networks;\nintroduce viruses, Trojan horses, worms, spyware, or other such malicious code into the Service;\nbreach or otherwise circumvent any security or authentication measures;\naccess, tamper with, or use non-public areas or parts of the Service, or shared areas of the Service you haven't been invited to;\naccess, search, or create accounts for the Service by any means other than our publicly supported interfaces (for example, \"scraping\" or creating accounts in bulk);\nsend unsolicited communications, promotions or advertisements, or spam;\nsend altered, deceptive or false source-identifying information, including \"spoofing\" or \"phishing\";\npromote or advertise products or services other than your own without appropriate authorization;\nsell or re-sell the Service unless specifically authorized to do so;\ncopy, reproduce, distribute, republish, download, display, post or transmit in any form or by any means any part of the Service unless specifically authorized to do so;\nremove or destroy any copyright notices or other proprietary markings contained on or in the Service; or\nviolate the law in any way, including by storing, publishing or sharing material that is infringing, fraudulent, defamatory, misleading, or damaging to Instructure in any way.",
+    "task_type": "consumer_contract_qa_test_translated_final2"
+  },
+  {
+    "question": "are my message encrypted on viber?",
+    "answer": "Relevant",
+    "context": "",
+    "task_type": "privacy_policy_qa_test_translated_cach"
+  }
+]

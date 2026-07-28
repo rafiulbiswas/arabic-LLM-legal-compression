@@ -1,0 +1,23 @@
+{
+  "model_name": "INT4_NF4",
+  "with_context": {
+    "accuracy": 99.0,
+    "correct": 495,
+    "total": 500,
+    "time_seconds": 16269.914618492126
+  },
+  "without_context": {
+    "accuracy": 79.4,
+    "correct": 397,
+    "total": 500,
+    "time_seconds": 11942.037979602814
+  },
+  "reading_skill": 19.599999999999994,
+  "size_info": {
+    "total_params": 4622073344,
+    "total_params_billions": 4.622073344,
+    "memory_mb": 4846.906251907349,
+    "memory_gb": 4.73330688662827
+  },
+  "compression_ratio": 0.2893000700272841
+}

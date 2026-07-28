@@ -1,0 +1,6 @@
+Method,Memory (GB),Compression %,With Context (%),Without Context (%),Reading Skill,Time With (s),Time Without (s)
+BF16 (Baseline),15.07,0.0,98.4,76.6,21.8,77.23,68.32
+INT8 BNB,8.47,43.81,98.2,75.8,22.4,515.84,496.01
+INT4 NF4 BNB,5.17,65.71,97.4,77.4,20.0,174.0,122.72
+INT4 FP4 BNB,5.17,65.71,98.0,74.2,23.8,164.23,187.76
+BNB INT4,5.17,65.71,97.4,77.2,20.2,175.97,122.44

@@ -1,0 +1,88 @@
+{
+  "dataset": "ArabLegalEval",
+  "model": "inceptionai/Jais-2-8B-Chat",
+  "best_model": "Exp D (CPT→SFT)",
+  "all_results": {
+    "Exp A (Base)": {
+      "experiment_name": "ExpA_Base_ArabLegal",
+      "timestamp": "2026-06-11T15:49:42.963220",
+      "mcq": {
+        "accuracy": 0.791292001893043,
+        "correct": 1672,
+        "total": 2113,
+        "invalid": 388,
+        "by_task": {
+          "saudi_legal_mcq": 0.791292001893043
+        }
+      },
+      "qa": {
+        "rouge1": 0.01935064935064935,
+        "rouge2": 0.0,
+        "rougeL": 0.01935064935064935,
+        "exact_match": 0.005,
+        "total": 200
+      }
+    },
+    "Exp B (CPT)": {
+      "experiment_name": "ExpB_CPT_ArabLegal",
+      "timestamp": "2026-06-14T06:07:07.672164",
+      "mcq": {
+        "accuracy": 0.9356365357311879,
+        "correct": 1977,
+        "total": 2113,
+        "invalid": 1,
+        "by_task": {
+          "saudi_legal_mcq": 0.9356365357311879
+        }
+      },
+      "qa": {
+        "rouge1": 0.02491699092088197,
+        "rouge2": 0.0,
+        "rougeL": 0.02491699092088197,
+        "exact_match": 0.0,
+        "total": 200
+      }
+    },
+    "Exp C (SFT)": {
+      "experiment_name": "ExpC_SFT_ArabLegal",
+      "timestamp": "2026-06-14T08:33:03.409356",
+      "mcq": {
+        "accuracy": 0.9574065309985802,
+        "correct": 2023,
+        "total": 2113,
+        "invalid": 1,
+        "by_task": {
+          "saudi_legal_mcq": 0.9574065309985802
+        }
+      },
+      "qa": {
+        "rouge1": 7.782101167315176e-05,
+        "rouge2": 0.0,
+        "rougeL": 7.782101167315176e-05,
+        "exact_match": 0.0,
+        "total": 200
+      }
+    },
+    "Exp D (CPT→SFT)": {
+      "experiment_name": "ExpD_CPT_SFT_ArabLegal",
+      "timestamp": "2026-06-14T11:11:04.039217",
+      "mcq": {
+        "accuracy": 0.9687647893989588,
+        "correct": 2047,
+        "total": 2113,
+        "invalid": 0,
+        "by_task": {
+          "saudi_legal_mcq": 0.9687647893989588
+        }
+      },
+      "qa": {
+        "rouge1": 0.0011673151750972762,
+        "rouge2": 0.0,
+        "rougeL": 0.0011673151750972762,
+        "exact_match": 0.0,
+        "total": 200
+      }
+    }
+  },
+  "timestamp": "2026-06-14T11:14:09.058124"
+}

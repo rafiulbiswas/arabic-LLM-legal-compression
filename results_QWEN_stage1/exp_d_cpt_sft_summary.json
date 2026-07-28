@@ -1,0 +1,20 @@
+{
+  "experiment_name": "ExpD_CPT_SFT_ArabLegal",
+  "timestamp": "2026-06-29T17:00:04.893568",
+  "mcq": {
+    "accuracy": 0.9862754377662092,
+    "correct": 2084,
+    "total": 2113,
+    "invalid": 0,
+    "by_task": {
+      "saudi_legal_mcq": 0.9862754377662092
+    }
+  },
+  "qa": {
+    "rouge1": 0.275,
+    "rouge2": 0.0,
+    "rougeL": 0.275,
+    "exact_match": 0.0,
+    "total": 200
+  }
+}

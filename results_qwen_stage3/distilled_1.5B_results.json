@@ -1,0 +1,24 @@
+{
+  "model_name": "Distilled_1.5B",
+  "with_context": {
+    "accuracy": 81.0,
+    "correct": 405,
+    "total": 500,
+    "time_seconds": 251.87478303909302
+  },
+  "without_context": {
+    "accuracy": 48.0,
+    "correct": 240,
+    "total": 500,
+    "time_seconds": 251.44030714035034
+  },
+  "reading_skill": 33.0,
+  "size_info": {
+    "total_params": 888616448,
+    "total_params_billions": 0.888616448,
+    "memory_mb": 1070.15185546875,
+    "memory_gb": 1.0450701713562012
+  },
+  "student_size": "1.5B",
+  "base_model": "Qwen/Qwen2.5-1.5B-Instruct"
+}

@@ -1,0 +1,24 @@
+{
+  "model_name": "Distilled_500M_INT4",
+  "with_context": {
+    "accuracy": 32.0,
+    "correct": 160,
+    "total": 500,
+    "time_seconds": 127.13398146629333
+  },
+  "without_context": {
+    "accuracy": 32.2,
+    "correct": 161,
+    "total": 500,
+    "time_seconds": 104.71838307380676
+  },
+  "reading_skill": -0.20000000000000284,
+  "size_info": {
+    "total_params": 315119488,
+    "total_params_billions": 0.315119488,
+    "memory_mb": 430.41796875,
+    "memory_gb": 0.4203300476074219
+  },
+  "student_size": "500M",
+  "quantization": "INT4_NF4"
+}

@@ -1,0 +1,35 @@
+
+======================================================================
+STAGE 1 FINAL REPORT - ArabLegalEval Benchmark
+======================================================================
+
+Date: 2026-06-14 11:14:09
+Model: inceptionai/Jais-2-8B-Chat
+Dataset: ArabLegalEval (THIQAH + KAUST)
+Citation: Hijazi et al., 2024 (arXiv:2408.07983)
+
+DATASET SPLITS:
+  MCQ Train: 8451 | Eval: 2113
+  QA Train:  1800 | Eval: 200
+
+RESULTS:
+----------------------------------------------------------------------
+Experiment                MCQ Acc    ROUGE-L      QA EM
+----------------------------------------------------------------------
+Exp A (Base)               79.13%     0.0194      0.50%
+Exp B (CPT)                93.56%     0.0249      0.00%
+Exp C (SFT)                95.74%     0.0001      0.00%
+Exp D (CPT→SFT)            96.88%     0.0012      0.00%
+
+----------------------------------------------------------------------
+
+🏆 BEST MODEL: Exp D (CPT→SFT)
+
+📁 SAVED FILES:
+  Models: ./models_jaislegal/
+  Results: ./results_jaislegal/
+
+🎯 NEXT STEPS:
+  Use Exp D (CPT→SFT) as TEACHER for Stage 2 (Compression)
+
+======================================================================

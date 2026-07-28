@@ -1,0 +1,16 @@
+{
+  "evaluation_date": "2026-05-06 14:50:01.158539",
+  "sample_size": 500,
+  "with_context": {
+    "Base": 99.0,
+    "CPT": 42.55,
+    "SFT": 98.82,
+    "CPT_SFT": 98.77
+  },
+  "without_context": {
+    "Base": 70.2,
+    "CPT": 45.0,
+    "SFT": 77.60000000000001,
+    "CPT_SFT": 76.8
+  }
+}

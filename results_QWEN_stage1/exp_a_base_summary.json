@@ -1,0 +1,20 @@
+{
+  "experiment_name": "ExpA_Base_ArabLegal",
+  "timestamp": "2026-06-29T05:54:59.599802",
+  "mcq": {
+    "accuracy": 0.9730241362991008,
+    "correct": 2056,
+    "total": 2113,
+    "invalid": 0,
+    "by_task": {
+      "saudi_legal_mcq": 0.9730241362991008
+    }
+  },
+  "qa": {
+    "rouge1": 0.009508608321377331,
+    "rouge2": 0.0006666666666666666,
+    "rougeL": 0.009508608321377331,
+    "exact_match": 0.0,
+    "total": 200
+  }
+}

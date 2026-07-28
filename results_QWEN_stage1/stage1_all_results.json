@@ -1,0 +1,88 @@
+{
+  "dataset": "ArabLegalEval",
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "best_model": "Exp D (CPT→SFT)",
+  "all_results": {
+    "Exp A (Base)": {
+      "experiment_name": "ExpA_Base_ArabLegal",
+      "timestamp": "2026-06-29T05:54:59.599802",
+      "mcq": {
+        "accuracy": 0.9730241362991008,
+        "correct": 2056,
+        "total": 2113,
+        "invalid": 0,
+        "by_task": {
+          "saudi_legal_mcq": 0.9730241362991008
+        }
+      },
+      "qa": {
+        "rouge1": 0.009508608321377331,
+        "rouge2": 0.0006666666666666666,
+        "rougeL": 0.009508608321377331,
+        "exact_match": 0.0,
+        "total": 200
+      }
+    },
+    "Exp B (CPT)": {
+      "experiment_name": "ExpB_CPT_ArabLegal",
+      "timestamp": "2026-06-29T09:04:23.856206",
+      "mcq": {
+        "accuracy": 0.9758637008991955,
+        "correct": 2062,
+        "total": 2113,
+        "invalid": 1,
+        "by_task": {
+          "saudi_legal_mcq": 0.9758637008991955
+        }
+      },
+      "qa": {
+        "rouge1": 0.15318052544956018,
+        "rouge2": 0.0,
+        "rougeL": 0.15318052544956018,
+        "exact_match": 0.0,
+        "total": 200
+      }
+    },
+    "Exp C (SFT)": {
+      "experiment_name": "ExpC_SFT_ArabLegal",
+      "timestamp": "2026-06-29T13:30:34.835228",
+      "mcq": {
+        "accuracy": 0.9858021769995268,
+        "correct": 2083,
+        "total": 2113,
+        "invalid": 0,
+        "by_task": {
+          "saudi_legal_mcq": 0.9858021769995268
+        }
+      },
+      "qa": {
+        "rouge1": 0.317,
+        "rouge2": 0.0,
+        "rougeL": 0.317,
+        "exact_match": 0.0,
+        "total": 200
+      }
+    },
+    "Exp D (CPT→SFT)": {
+      "experiment_name": "ExpD_CPT_SFT_ArabLegal",
+      "timestamp": "2026-06-29T17:00:04.893568",
+      "mcq": {
+        "accuracy": 0.9862754377662092,
+        "correct": 2084,
+        "total": 2113,
+        "invalid": 0,
+        "by_task": {
+          "saudi_legal_mcq": 0.9862754377662092
+        }
+      },
+      "qa": {
+        "rouge1": 0.275,
+        "rouge2": 0.0,
+        "rougeL": 0.275,
+        "exact_match": 0.0,
+        "total": 200
+      }
+    }
+  },
+  "timestamp": "2026-06-29T17:00:05.982024"
+}

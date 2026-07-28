@@ -1,0 +1,47 @@
+
+======================================================================
+STAGE 1 FINAL REPORT - ArabLegalEval Benchmark
+======================================================================
+
+Date: 2026-05-06 02:29:22
+Model: QCRI/Fanar-1-9B-Instruct
+Dataset: ArabLegalEval (THIQAH + KAUST)
+Citation: Hijazi et al., 2024 (arXiv:2408.07983)
+
+DATASET SPLITS:
+  MCQ Train: 8451 | Eval: 2113
+  QA Train:  1800 | Eval: 200
+
+RESULTS:
+----------------------------------------------------------------------
+Experiment                MCQ Acc    ROUGE-L      QA EM
+----------------------------------------------------------------------
+Exp A (Base)               97.78%     0.0083      0.00%
+Exp B (CPT)                42.55%     0.1700      0.00%
+Exp C (SFT)                98.82%     0.1700      0.00%
+Exp D (CPT→SFT)            98.77%     0.1683      0.00%
+
+----------------------------------------------------------------------
+
+🏆 BEST MODEL: Exp C (SFT)
+
+📁 SAVED FILES:
+  Models: ./models_arablegal/
+  Results: ./results_arablegal/
+  
+  ---------------------------Dataset Stage 1--------- Result to be included in paper-----
+
+🎯 NEXT STEPS:
+  Use Exp C (SFT) as TEACHER for Stage 2 (Compression)
+
+======================================================================
+
+Experiment              With Context    Without Context    Reading Skill
+─────────────────────────────────────────────────────────────────────────
+Exp A (Base)               99.00%           70.20%            +28.80%
+Exp B (CPT)                42.55%           45.00%            -2.45% ⚠️
+Exp C (SFT)                98.82%           77.60%  ⭐         +21.22%
+Exp D (CPT→SFT)            98.77%           76.80%            +21.97%
+
+
+
